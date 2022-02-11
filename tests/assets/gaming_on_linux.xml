@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>GamingOnLinux Latest Articles</title><link>https://www.gamingonlinux.com/</link><description>The latest articles from GamingOnLinux</description><pubDate>Fri, 28 Jan 2022 11:17:14 +0000</pubDate><language>en-us</language><lastBuildDate>Fri, 28 Jan 2022 11:17:14 +0000</lastBuildDate><copyright>All articles are Copyright 2022 GamingOnLinux.com do not reproduce without consent.</copyright><atom:link href="https://www.gamingonlinux.com/article_rss.php" rel="self" type="application/rss+xml"/><atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/><item><title><![CDATA[Wine manager Bottles has a big new release with major overhauls]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/wine-manager-bottles-has-a-big-new-release-with-major-overhauls</link><guid>https://www.gamingonlinux.com/2022/01/wine-manager-bottles-has-a-big-new-release-with-major-overhauls</guid><category><![CDATA[Open Source]]></category><category><![CDATA[Wine]]></category><category><![CDATA[Apps]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1578465669id20406gol.jpg"/><description><![CDATA[<p><p>Managing various games and applications installed on Linux using Wine can be a hassle, and while there's stuff like Lutris available perhaps Bottles might be a better dedicated option just for Wine directly.</p>
+
+<p><a href="https://usebottles.com/blog/release-2022.1.28/" target="_blank">Version 2022.1.28</a> has rolled out, with an aim to make the experience more stable thanks to a whole new Wine backend. The new system is split across three components (WineCommand, WineProgram, Executor), that should allow for easy extensions to what Bottles can offer. One useful change with this is that you can run commands without other things interfering (like Gamescope and GameMode).</p>
+
+<p>There's also now the ability to show / hide programs inside each Bottle, their new build of Wine (Caffe) is based on Wine 7.0 with support for the newer Futex2 code, an improved view with a search bar for installers like Epic Games and GOG Galaxy and some other minor features.</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/20984163171643368443gol1.png" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/20984163171643368443gol1.png" /></a></p>
+
+<p>A bunch of bug fixes came in too like better Wayland support, fixed desktop entries, the Download Manager should no longer fail due to lack of a User-Agent and the backup import feature should work now too. A few other stability updates also went into it like a dependency issue being solved when creating a new Bottle.</p><div id="twtWzD@p1e8ztVq">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Fri, 28 Jan 2022 11:17:14 +0000</pubDate></item><item><title><![CDATA[Unavowed from Wadjet Eye Games arrives on Linux]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/unavowed-from-wadjet-eye-games-arrives-on-linux</link><guid>https://www.gamingonlinux.com/2022/01/unavowed-from-wadjet-eye-games-arrives-on-linux</guid><category><![CDATA[Steam]]></category><category><![CDATA[Indie Game]]></category><category><![CDATA[Adventure]]></category><category><![CDATA[Humble Store]]></category><category><![CDATA[Point & Click]]></category><category><![CDATA[New Release]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1558962324id20405gol.jpg"/><description><![CDATA[<p><p>Wadjet Eye Games seem to be on a roll lately for Linux support. First we saw upgrades and new ports of <a href="https://www.gamingonlinux.com/2022/01/the-blackwell-bundle-brings-all-the-adventures-back-to-linux/" target="_blank">The Blackwell Bundle</a>, then <a href="https://www.gamingonlinux.com/2022/01/gemini-rue-gets-a-fresh-and-up-to-date-linux-port/" target="_blank">Gemini Rue</a> and now we have Unavowed. A good time to be a point and click adventure game fan.</p>
+
+<p>"A demon possessed you one year ago. Since that day, you unwillingly tore a trail of bloodshed through New York City. Your salvation comes in the form of the Unavowed – an ancient society dedicated to stopping evil.</p>
+
+<p>You are free, but your world is in tatters. You have no home, no friends, and are wanted by the police. Your old life is gone, but perhaps you can start a new one. Join the ranks of the Unavowed, and fight against the oncoming darkness."</p>
+
+<a href="https://www.youtube.com/watch?v=V_xysUrYgbg" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/V_xysUrYgbg/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>With the latest update, it brings with it a game engine upgrade (Adventure Game Studio) and these improvements:</p>
+
+<blockquote>
+<p>-Fixed vent glitch in storage unit room.<br />
+-Added new tracking system of player party choices.<br />
+-Loading older saves will patch them and grant the achievements properly.<br />
+-Fixed OPEN GL RENDERER issue with tinting and transparencies.</p>
+</blockquote>
+
+<p>Game Features:</p>
+
+<ul>
+	<li>Choose a male or female protagonist</li>
+	<li>Three playable origin stories</li>
+	<li>Branching storyline</li>
+	<li>A total of four companion characters to choose from, each with their own talents and abilities.</li>
+	<li>Twice the resolution of a typical Wadjet Eye Game!</li>
+	<li>All the usual guff – voice acting, commentary, original music, etc</li>
+</ul>
+
+<p>Available on <a href="https://www.humblebundle.com/store/unavowed?partner=gamingonlinux&charity=12277" target="_blank">Humble Store</a> and <a href="https://store.steampowered.com/app/336140/Unavowed" target="_blank">Steam</a>. <a href="https://www.gog.com/en/game/unavowed" target="_blank">GOG</a> does not yet have the Linux version.</p><div id="9Sz65BIsF3P5cLe">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Fri, 28 Jan 2022 10:19:27 +0000</pubDate></item><item><title><![CDATA[Gemini Rue gets a fresh and up to date Linux port]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/gemini-rue-gets-a-fresh-and-up-to-date-linux-port</link><guid>https://www.gamingonlinux.com/2022/01/gemini-rue-gets-a-fresh-and-up-to-date-linux-port</guid><category><![CDATA[Steam]]></category><category><![CDATA[Adventure]]></category><category><![CDATA[Point & Click]]></category><category><![CDATA[Update]]></category><category><![CDATA[New Release]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/2142456774id20404gol.jpg"/><description><![CDATA[<p><p>Wadjet Eye Games continue getting their older published titles upgraded for Linux, after doing the same for <a href="https://www.gamingonlinux.com/2022/01/the-blackwell-bundle-brings-all-the-adventures-back-to-linux/" target="_blank">The Blackwell Bundle</a> we now have a modern port of Gemini Rue for Linux.</p>
+
+<p>"Azriel Odin, ex-assassin, arrives on the rain-drenched planet of Barracus. When things go horribly wrong, he can only seek help from the very criminals he used to work for.</p>
+
+<p>Meanwhile, across the galaxy, a man called Delta-Six wakes up in a hospital with no memory. Without knowing where to turn or who to trust, he vows to escape before he loses his identity completely.</p>
+
+<p>As fate brings these two closer together, we discover a world where life is cheap, identities are bought and sold, and a quest for redemption can change the fate of a whole galaxy."</p>
+
+<a href="https://www.youtube.com/watch?v=foZp9ToBewA" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/foZp9ToBewA/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>From the release notes:</p>
+
+<blockquote>
+<ul>
+	<li>Added proper LINUX and MAC ports with WORKING ACHIEVEMENTS!</li>
+	<li>If you want to revert the previous 2021 update use beta channel firstupdate, password is "gruegruegrue".</li>
+	<li>If you want to revert to the older geminirue, use beta channel original, password is geminirueold</li>
+</ul>
+</blockquote>
+
+<p>This is on top of an upgrade in early 2021 that gave the game a big upgrade to a much newer version of Adventure Game Studio, so it should run better than ever.</p>
+
+<p>Game Features:</p>
+
+<ul>
+	<li>Over 60 hand-drawn backgrounds</li>
+	<li>A moody, film noir atmosphere</li>
+	<li>Control both Azriel and Delta-Six</li>
+	<li>An innovative investigation system</li>
+	<li>A gripping sci-fi mystery</li>
+	<li>DVD-style commentary track</li>
+</ul>
+
+<p>It's currently 70% off on both <a href="https://www.gog.com/en/game/gemini_rue" target="_blank">GOG</a> and <a href="https://store.steampowered.com/app/80310/Gemini_Rue/" target="_blank">Steam</a>.</p><div id="QbquWlqt6i0pZWS">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Fri, 28 Jan 2022 10:12:05 +0000</pubDate></item><item><title><![CDATA[Reminder: Update your PC info for the next round of statistics updates]]></title><dc:creator>gamingonlinux</dc:creator><link>https://www.gamingonlinux.com/2022/01/update-pc-info-202201</link><guid>https://www.gamingonlinux.com/2022/01/update-pc-info-202201</guid><category><![CDATA[Site Info]]></category><category><![CDATA[Survey]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/tagline_gallery/defaulttagline.png"/><description><![CDATA[<p><p>This is your once a month reminder to make sure your PC information is correct on your user profiles. A fresh batch of statistics is generated on the 1st of each month. You can see the statistics any time <a href="https://www.gamingonlinux.com/users/statistics" target="_blank">on this page</a>.</p>
+
+<p></p>
+
+<p>PC Info is automatically purged if it hasn't been updated, or if you don't click the link to remain in for 2 years. This way we prevent too much stale data and don't hold onto your data for longer than required. If this is still correct and it has been a long time since you updated, you can simply <strong><a href="#" id="pc_info_update" target="_self">click here to continue</a> to be included</strong>. If this isn't correct, <a href="/usercp.php?module=pcinfo" target="_blank">click here to go to your User Control Panel to update it!</a></p>
+
+<p>We have begun adding more specific gamepads. If yours is missing, do let us know so we can add it.</p>
+
+<div class="all-ok" id="pc_info_done"> </div><div id="oRgzqjfdXrQSUr9">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Fri, 28 Jan 2022 09:55:25 +0000</pubDate></item><item><title><![CDATA[Steam Lunar New Year Sale 2022 is now live]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/steam-lunar-new-year-sale-2022-is-now-live</link><guid>https://www.gamingonlinux.com/2022/01/steam-lunar-new-year-sale-2022-is-now-live</guid><category><![CDATA[Game Sale]]></category><category><![CDATA[Steam]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/991348018id20402gol.jpg"/><description><![CDATA[<p><p>Do you feel the need for some new games? Perhaps to continue building up a collection for the upcoming Steam Deck? Now is yet another chance for you with the Steam Lunar New Year Sale 2022. Not only is there a big sale but if you head over to the <a href="https://store.steampowered.com/points/shop/" target="_blank">Points Shop</a>, you'll also get a new sticker each day too.</p>
+
+<p style="text-align:center"><img src="https://uploads.golmedia.net/uploads/articles/article_media/21402974861643308625gol1.jpg" /><br />
+<em>Lunar New Year art by <a href="https://www.cameliapham.com/" target="_blank">Camelia Pham</a></em></p>
+
+<p>Time to check out your <a href="https://store.steampowered.com/wishlist/" target="_blank">Steam Wishlist</a> to see if any goodies you want are discounted! Lots to choose from as always and it's never easy to pick between them all - what will you be buying? I might finally pull the trigger on <a href="https://store.steampowered.com/app/719040/Wasteland_3/" target="_blank">Wasteland 3</a> at 67% off which hasn't seen a bigger discount yet. I can also happily suggest you grab <a href="https://store.steampowered.com/app/1227280/Despots_Game_Dystopian_Army_Builder/" target="_blank">Despot's Game: Dystopian Army Builder</a>, which only has 20% off but it's a great game.</p>
+
+<p>See the full sale on <a href="https://store.steampowered.com/" target="_blank">Steam</a>. You can also try the <a href="https://steamdb.info/sales/" target="_blank">SteamDB</a> page for more filters and SteamDB also just updated their own Sales page to allow you to filter to Steam Deck, which shows a combined list of sales for both <em>Playable </em>and <em>Verified </em>titles.</p>
+
+<p>Probably a good time to point out the list of Steam Deck Verified titles. For those of you wanting to play it really safe, here's the current list of as of publishing time (<a href="https://steamdb.info/instantsearch/?refinementList%5Boslist%5D%5B0%5D=Steam%20Deck%20Verified" target="_blank">SteamDB</a>):</p>
+
+<ol>
+	<li><a href="https://store.steampowered.com/app/447150/APE_OUT/?curator_clanid=4218320" target="_blank">APE OUT</a></li>
+	<li><a href="https://store.steampowered.com/app/1549970/Aliens_Fireteam_Elite/?curator_clanid=4218320" target="_blank">Aliens: Fireteam Elite</a></li>
+	<li><a href="https://store.steampowered.com/app/204360/Castle_Crashers/?curator_clanid=4218320" target="_blank">Castle Crashers</a></li>
+	<li><a href="https://store.steampowered.com/app/504230/Celeste/?curator_clanid=4218320" target="_blank">Celeste</a></li>
+	<li><a href="https://store.steampowered.com/app/1097130/Circuit_Superstars/?curator_clanid=4218320" target="_blank">Circuit Superstars</a></li>
+	<li><a href="https://store.steampowered.com/app/268910/Cuphead/?curator_clanid=4218320" target="_blank">Cuphead</a></li>
+	<li><a href="https://store.steampowered.com/app/335300/DARK_SOULS_II_Scholar_of_the_First_Sin/?curator_clanid=4218320" target="_blank">DARK SOULS™ II: Scholar of the First Sin</a></li>
+	<li><a href="https://store.steampowered.com/app/374320/DARK_SOULS_III/?curator_clanid=4218320" target="_blank">DARK SOULS™ III</a></li>
+	<li><a href="https://store.steampowered.com/app/894020/Deaths_Door/?curator_clanid=4218320" target="_blank">Death's Door</a></li>
+	<li><a href="https://store.steampowered.com/app/1190460/DEATH_STRANDING/?curator_clanid=4218320" target="_blank">Death Stranding</a></li>
+	<li><a href="https://store.steampowered.com/app/205100/Dishonored/?curator_clanid=4218320" target="_blank">Dishonored</a></li>
+	<li><a href="https://store.steampowered.com/app/977880/Eastward" target="_blank">Eastward</a></li>
+	<li><a href="https://store.steampowered.com/app/1173770/FINAL_FANTASY/?curator_clanid=4218320" target="_blank">Final Fantasy</a></li>
+	<li><a href="https://store.steampowered.com/app/1139900/Ghostrunner" target="_blank">Ghostrunner</a></li>
+	<li><a href="https://store.steampowered.com/app/534550/Guacamelee_2/?curator_clanid=4218320" target="_blank">Guacamelee! 2</a></li>
+	<li><a href="https://store.steampowered.com/app/1217060/Gunfire_Reborn/?curator_clanid=4218320" target="_blank">Gunfire Reborn</a></li>
+	<li><a href="https://store.steampowered.com/app/1145360/Hades/" target="_blank">Hades</a></li>
+	<li><a href="https://store.steampowered.com/app/1271700/HOT_WHEELS_UNLEASHED/?curator_clanid=4218320" target="_blank">HOT WHEELS UNLEASHED™</a></li>
+	<li><a href="http://Hollow Knight" target="_blank">Hollow Knight</a></li>
+	<li><a href="https://store.steampowered.com/app/590380/Into_the_Breach/?curator_clanid=4218320" target="_blank">Into the Breach</a></li>
+	<li><a href="https://store.steampowered.com/app/532210/Life_is_Strange_2/" target="_blank">Life is Strange 2</a> (Episode 2 is listed by itself also Verified)</li>
+	<li><a href="https://store.steampowered.com/app/48000/LIMBO/" target="_blank">LIMBO</a></li>
+	<li><a href="https://store.steampowered.com/app/234140/Mad_Max/?curator_clanid=4218320" target="_blank">Mad Max</a></li>
+	<li><a href="https://store.steampowered.com/app/473950/Manifold_Garden/?curator_clanid=4218320" target="_blank">Manifold Garden</a></li>
+	<li><a href="https://store.steampowered.com/app/860950/Mark_of_the_Ninja_Remastered/?curator_clanid=4218320" target="_blank">Mark of the Ninja: Remastered</a></li>
+	<li><a href="https://store.steampowered.com/app/881100/Noita/?curator_clanid=4218320" target="_blank">Noita</a></li>
+	<li><a href="https://store.steampowered.com/app/620/Portal_2/?curator_clanid=4218320" target="_blank">Portal 2</a></li>
+	<li><a href="https://store.steampowered.com/app/607080/Psychonauts_2/?curator_clanid=4218320" target="_blank">Psychonauts 2</a></li>
+	<li><a href="https://store.steampowered.com/app/722560/RAD/?curator_clanid=4218320" target="_blank">RAD</a></li>
+	<li><a href="https://store.steampowered.com/app/1203630/Record_of_Lodoss_WarDeedlit_in_Wonder_Labyrinth/?curator_clanid=4218320" target="_blank">Record of Lodoss War-Deedlit in Wonder Labyrinth-</a></li>
+	<li><a href="https://store.steampowered.com/app/617290/Remnant_From_the_Ashes/?curator_clanid=4218320" target="_blank">Remnant: From the Ashes</a></li>
+	<li><a href="https://store.steampowered.com/app/632360/Risk_of_Rain_2/?curator_clanid=4218320" target="_blank">Risk of Rain 2</a></li>
+	<li><a href="https://store.steampowered.com/app/1253920/Rogue_Legacy_2/?curator_clanid=4218320" target="_blank">Rogue Legacy 2</a></li>
+	<li><a href="https://store.steampowered.com/app/775500/SCARLET_NEXUS/?curator_clanid=4218320" target="_blank">SCARLET NEXUS</a></li>
+	<li><a href="https://store.steampowered.com/app/757310/Sable/?curator_clanid=4218320" target="_blank">Sable</a></li>
+	<li><a href="https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/?curator_clanid=4218320" target="_blank">Sekiro™: Shadows Die Twice</a></li>
+	<li><a href="https://store.steampowered.com/app/988910/Super_Mega_Baseball_3/?curator_clanid=4218320" target="_blank">Super Mega Baseball 3</a></li>
+	<li><a href="https://store.steampowered.com/app/1003590/Tetris_Effect_Connected/?curator_clanid=4218320" target="_blank">Tetris® Effect: Connected</a></li>
+	<li><a href="https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/?curator_clanid=4218320" target="_blank">The Binding of Isaac: Rebirth</a></li>
+	<li><a href="https://store.steampowered.com/app/764790/The_Messenger/?curator_clanid=4218320" target="_blank">The Messenger</a></li>
+	<li><a href="https://store.steampowered.com/app/594570/Total_War_WARHAMMER_II/?curator_clanid=4218320" target="_blank">Total War: WARHAMMER II</a></li>
+	<li><a href="https://store.steampowered.com/app/887450/Tunche/?curator_clanid=4218320" target="_blank">Tunche</a></li>
+	<li><a href="https://store.steampowered.com/app/1097200/Twelve_Minutes/" target="_blank">Twelve Minutes</a></li>
+	<li><a href="https://store.steampowered.com/app/1390350/Webbed/?curator_clanid=4218320" target="_blank">Webbed</a></li>
+</ol>
+
+<p>We of course expect many more to be Deck Verified before the <a href="https://www.gamingonlinux.com/2022/01/steam-deck-launches-february-25/" target="_blank">Steam Deck launch on February 25</a>. It's already quite a nice list of fun titles though. If you also missed it, Easy Anti-Cheat <a href="https://www.gamingonlinux.com/2022/01/easy-anti-cheat-gets-much-simpler-for-proton-and-steam-deck/" target="_blank">recently got easier</a> for developers to support the Steam Deck and Proton.</p>
+
+<p>If you spot any really good deals do comment and let other readers know!</p><div id="B6IsQfkSVL5SjZr">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Thu, 27 Jan 2022 18:47:08 +0000</pubDate></item><item><title><![CDATA[Prison Architect: Perfect Storm DLC and The Tower update get a surprise release]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/prison-architect-perfect-storm-dlc-and-the-tower-update-get-a-surprise-release</link><guid>https://www.gamingonlinux.com/2022/01/prison-architect-perfect-storm-dlc-and-the-tower-update-get-a-surprise-release</guid><category><![CDATA[Steam]]></category><category><![CDATA[Humble Store]]></category><category><![CDATA[DLC]]></category><category><![CDATA[GOG]]></category><category><![CDATA[New Release]]></category><category><![CDATA[Paradox Interactive]]></category><category><![CDATA[Building Sim]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1980844758id20403gol.jpg"/><description><![CDATA[<p><p>Today Paradox Interactive and Double Eleven have done a surprise launch of the Prison Architect: Perfect Storm expansion. Plus, as always for Paradox, there's a free update out now too called The Tower. So not only do you have to worry about what the inmates have smuggled around but you now also need to look to the skies. No one wants to sit in a freezing cold cell, or have wild rats running across their feet.</p>
+
+<p>“The calamities in Perfect Storm challenge players to solve problems in creative ways, often requiring them to think ahead when constructing their compound. We’ve worked hard to respectfully present calamities as fun challenges players can overcome using Prison Architect’s signature management gameplay,” says Gaz Wright, Game Director on Prison Architect at Double Eleven. “Like our past expansions, the calamities are inspired by popular prison fiction seen in shows and films. It’s great if players start thinking about these issues more critically and how they could be solved in the real world.”</p>
+
+<a href="https://www.youtube.com/watch?v=x6epnWiYCG4" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/x6epnWiYCG4/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>DLC Features:</p>
+
+<blockquote>
+<ul>
+	<li>Riot Before the Storm - “Calamities,” like Deep Freezes, Heatwaves, Rat Infestations, and Lightning Storms can cause structural damage, lower prison ratings, and wreak havoc in the compound.</li>
+	<li>Come Cell or High Water - Pest Control, Plumbers, Repairmen, and Road Maintenance Emergency Services are available for immediate relief from calamities. Electrician, Cold Control, Fire Safety, First Aid Training, and Pest Removal Training allow staff to mitigate damage and keep things running smoothly.</li>
+	<li>Granted Refuge - Grants for Disaster Relief, Heatwaves, Emergency Protocol, Subsidence, Advanced Staff Training and Utility Retrofit Grant fund much-needed preparations to help ride out Calamities.</li>
+	<li>Raining Rats and Dogs - Check current and forecasted weather conditions, and use weather prediction objects, to stay apprised of any impending disasters.</li>
+</ul>
+</blockquote>
+
+<p>Some of what's in the free update include:</p>
+
+<blockquote>
+<ul>
+	<li>Extended Visitation - Visitation sessions will last much longer</li>
+	<li>New Foliage - Five new pieces of foliage to add to the grounds of your prison</li>
+	<li>New Floor Types - Three new floor types to add to your grounds</li>
+	<li>New Door Types - Coloured staff doors</li>
+	<li>New Windows - Wooden and stained glass windows</li>
+	<li>Additional Furniture - Sofa, Luxury Desk, Wooden and Swivel Chairs</li>
+	<li>New Search Dogs - Two new search dogs rated as 'very good dogs'</li>
+	<li>New Mutator - Doggie Doo! - Search dogs will contribute to the poor hygiene of the prison</li>
+	<li>Misc Improvements & Community Requests
+	<ul>
+		<li>Radiators added to Utilities</li>
+		<li>Non Lethal Sniper Policy - Snipers fire rubber bullets that can knock inmates unconscious, but don't kill</li>
+	</ul>
+	</li>
+</ul>
+</blockquote>
+
+<p>You can buy Prison Architect from <a href="https://www.gog.com/game/prison_architect" target="_blank">GOG</a>, <a href="https://www.humblebundle.com/store/prison-architect?partner=gamingonlinux" target="_blank">Humble Store</a> and <a href="https://store.steampowered.com/app/233450/Prison_Architect/?curator_clanid=4218320" target="_blank">Steam</a>.</p><div id="L6lWQy4Z6l6jiRQ">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Thu, 27 Jan 2022 17:27:06 +0000</pubDate></item><item><title><![CDATA[Steam's latest crazy indie hit Vampire Survivors is coming to Linux]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/steams-latest-crazy-indie-hit-vampire-survivors-is-coming-to-linux</link><guid>https://www.gamingonlinux.com/2022/01/steams-latest-crazy-indie-hit-vampire-survivors-is-coming-to-linux</guid><category><![CDATA[Steam]]></category><category><![CDATA[Indie Game]]></category><category><![CDATA[Upcoming]]></category><category><![CDATA[Early Access]]></category><category><![CDATA[Rogue-lite]]></category><category><![CDATA[Steam Deck]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/726297038id20401gol.jpg"/><description><![CDATA[<p><p>The developer of Vampire Survivors, an absolute smash-hit on <a href="https://store.steampowered.com/app/1794680/Vampire_Survivors/" target="_blank">Steam</a> has confirmed that a Linux version is in the works. Their latest <a href="https://store.steampowered.com/news/app/1794680/view/3135069454876829117" target="_blank">update post</a> mentioned it might be available by the end of the month, if all goes well.</p>
+
+<p>Developed by poncle, it arrived on Steam in Early Access for Windows on December 17 - 2021 and suddenly on January 6 - 2022 it starting gathering thousands of players. More arrived each day, and this game of complete chaos suddenly managed to be a total hit with an all-time peak player count of 37,075 and that was only hit yesterday so it's continuing to grow all the time. On Steam, it's managed to hit an Overwhelmingly Positive rating too.</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/14233495731643300937gol1.jpg" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/14233495731643300937gol1.jpg" /></a></p>
+
+<p>What is it? A "time survival" game. All you do is run around and try to survive as long as possible, before you inevitably die at some point. Simple gameplay that appears to offer that "just one more run" type of deal.</p>
+
+<p>In regards to it coming officially to Linux, the developer mentioned they're "aiming for Mac and Linux builds by the end of the month" and that an "engine-port project is running in parallel with the development of the current Steam version of the game, so to ease porting to other platforms and ensuring maximum compatibility with the Steam Deck".</p><div id="k28kxAdL2KGMYj2">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Thu, 27 Jan 2022 16:30:25 +0000</pubDate></item><item><title><![CDATA[X4: Foundations 5.00 gets a Beta with AMD FidelityFX Super Resolution (FSR)]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/x4-foundations-500-gets-a-beta-with-amd-fidelityfx-super-resolution-fsr</link><guid>https://www.gamingonlinux.com/2022/01/x4-foundations-500-gets-a-beta-with-amd-fidelityfx-super-resolution-fsr</guid><category><![CDATA[Steam]]></category><category><![CDATA[Indie Game]]></category><category><![CDATA[Humble Store]]></category><category><![CDATA[Simulation]]></category><category><![CDATA[GOG]]></category><category><![CDATA[Beta]]></category><category><![CDATA[Open World]]></category><category><![CDATA[Space]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/86287075id20400gol.jpg"/><description><![CDATA[<p><p>Egosoft continue upgrading their space sim X4: Foundations with the big 5.00 version now in Beta, readying up for the new X4: Tides of Avarice expansion. This free update should release in full with the expansion, and further advances their game engine to provide a better space travel experience.</p>
+
+<p>For some of what to expect in the free update you will see a series of new big capital ships, improved ship models and the big one for fans of performance is the introduction of AMD FidelityFX Super Resolution (FSR). New game mechanics will also come along including ship salvaging and recycling, plus an overhaul to your headquarters. That's just a small slice of what to expect (there's plenty more). Want to test it early? You can! Find out how on their <a href="https://forum.egosoft.com/viewtopic.php?f=192&t=405397" target="_blank">official forum</a>.</p>
+
+<p>See the teaser below for the new expansion if you missed it before:</p>
+
+<a href="https://www.youtube.com/watch?v=W9jpH_1gOBg" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/W9jpH_1gOBg/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>For the full game right now you can buy it on <a href="https://www.humblebundle.com/store/x4-foundations?partner=gamingonlinux" target="_blank">Humble Store</a>, <a href="https://af.gog.com/game/x4_foundations?as=1636858786" target="_blank">GOG</a> and <a href="https://store.steampowered.com/app/392160/X4_Foundations/?curator_clanid=4218320" target="_blank">Steam</a>.</p><div id="1oPiMEr2QCCF64W">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Thu, 27 Jan 2022 15:49:46 +0000</pubDate></item><item><title><![CDATA[A look at Steam's top releases of December 2021 on Linux and Steam Deck]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/steams-top-releases-of-december-2021-on-linux-and-steam-deck</link><guid>https://www.gamingonlinux.com/2022/01/steams-top-releases-of-december-2021-on-linux-and-steam-deck</guid><category><![CDATA[Steam]]></category><category><![CDATA[Valve]]></category><category><![CDATA[Listicle]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/866636024id20399gol.jpg"/><description><![CDATA[<p><p>The latest report is out from Valve on what was popular and sold well during December 2021. Let's take a look at what to expect from the list in terms of basic compatibility on Linux and the Steam Deck.</p>
+
+<p>Each month Valve goes over the previous month to show off games doing well, with it including titles across different genres and both Early Access titles and full releases. As usual, it's a mix between native Linux games and those that require running the Windows version through <a href="http://steamproton.com" target="_blank">Steam Play Proton</a>.</p>
+
+<p>So here's how they work on Linux. Starting with the ones that <em>do</em> work:</p>
+
+<ul>
+	<li><a href="https://store.steampowered.com/app/751630/After_the_Fall__Launch_Edition/" target="_blank">After the Fall</a> (VR) - Proton.</li>
+	<li><a href="https://store.steampowered.com/app/1153640/Chorus/" target="_blank">Chorus</a> - Proton.</li>
+	<li><a href="https://store.steampowered.com/app/1341200/DYNASTY_WARRIORS_9_Empires/" target="_blank">DYNASTY WARRIORS 9 Empires</a> - Proton.</li>
+	<li><a href="https://store.steampowered.com/app/1265820/Fights_in_Tight_Spaces/" target="_blank">Fights in Tight Spaces</a> - Proton.</li>
+	<li><a href="https://store.steampowered.com/app/747660/Five_Nights_at_Freddys_Security_Breach/" target="_blank">Five Nights at Freddy's: Security Breach</a> - Proton, performance not great.</li>
+	<li><a href="https://store.steampowered.com/app/493520/GTFO/" target="_blank">GTFO</a> - Proton.</li>
+	<li><a href="https://store.steampowered.com/app/1149460/ICARUS/" target="_blank">ICARUS</a> - Proton, performance not great.</li>
+	<li><a href="https://store.steampowered.com/app/1619750/Karryns_Prison/" target="_blank">Karryn's Prison</a> (NSFW) - Proton</li>
+	<li><a href="https://store.steampowered.com/app/1716120/Monster_Rancher_1__2_DX/" target="_blank">Monster Rancher 1 & 2 DX</a> - Proton, intro videos don't work.</li>
+	<li><a href="https://store.steampowered.com/app/1144200/Ready_or_Not/" target="_blank">Ready or Not</a> - Proton.</li>
+	<li><a href="https://store.steampowered.com/app/1580240/Rune_Factory_4_Special/" target="_blank">Rune Factory 4 Special</a> - Proton.</li>
+	<li><a href="https://store.steampowered.com/app/1094520/Sands_of_Salzaar/" target="_blank">Sands of Salzaar</a> - Proton, may need Proton-GE for videos.</li>
+	<li><a href="https://store.steampowered.com/app/1579380/Shadow_Tactics_Aikos_Choice/" target="_blank">Shadow Tactics: Aiko's Choice</a> - <strong>Linux native</strong></li>
+	<li><a href="https://store.steampowered.com/app/377300/Thunder_Tier_One/" target="_blank">Thunder Tier One</a> - Proton.</li>
+	<li><a href="https://store.steampowered.com/app/1069660/Ultimate_Admiral_Dreadnoughts/" target="_blank">Ultimate Admiral: Dreadnoughts</a> - Proton.</li>
+	<li><a href="https://store.steampowered.com/app/1527950/Wartales/" target="_blank">Wartales</a> - Proton.</li>
+	<li><a href="https://store.steampowered.com/app/1206560/WorldBox__God_Simulator/" target="_blank">WorldBox - God Simulator</a> - <strong>Linux native</strong></li>
+</ul>
+
+<p>Broken due to <u>anti-cheat</u>:</p>
+
+<ul>
+	<li><a href="https://store.steampowered.com/app/918570/Century_Age_of_Ashes/" target="_blank">Century: Age of Ashes</a> - Proton</li>
+	<li><a href="https://store.steampowered.com/app/1549180/Propnight/" target="_blank">Propnight</a> - Proton</li>
+</ul>
+
+<p>Just Broken:</p>
+
+<ul>
+	<li><a href="https://store.steampowered.com/app/1487390/ANVIL/" target="_blank">ANVIL</a> - Proton</li>
+</ul>
+
+<p>As expected, most games do not offer native Linux support, so you will continue to need Proton for desktop Linux gaming and for the Steam Deck when it <a href="https://www.gamingonlinux.com/2022/01/steam-deck-launches-february-25/" target="_blank">launches on February 25</a>. Good to see so many working well though! Proton really has come a long way on compatibility.</p>
+
+<p>You can check out the <a href="https://store.steampowered.com/sale/top_december_2021?tab=1" target="_blank">list on Steam</a>.</p><div id="k7SR30OuaI3cQ@I">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Thu, 27 Jan 2022 10:51:11 +0000</pubDate></item><item><title><![CDATA[SDL 2.0.22 will default to Wayland on Linux]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/sdl-2022-will-default-to-wayland-on-linux</link><guid>https://www.gamingonlinux.com/2022/01/sdl-2022-will-default-to-wayland-on-linux</guid><category><![CDATA[Open Source]]></category><category><![CDATA[Game Dev]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/tagline_gallery/sdl.jpg"/><description><![CDATA[<p><p>Simple DirectMedia Layer (SDL) is one of the most important pieces of open source for Linux gamers, as it's the tech used by various game engines and games. It's also about to continue changing the game for the Linux desktop in the upcoming version.</p>
+
+<p>What does it actually do? It's a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware.</p>
+
+<p>It has been announced that the SDL 2.0.22 will default to Wayland, preferring it over X11. This is another big step towards Wayland properly being a replacement for the old and crusty X11 everywhere. With this we might end up seeing more games and applications be native to Wayland, rather than having to run through XWayland.</p>
+
+<p>Developer Ryan C. Gordon (also known as Icculus) mentioned on <a href="https://twitter.com/icculus/status/1486393168211976193" target="_blank">Twitter</a>: "If you or your distro has not supplied a libdecor, you absolutely want to get that in place by around March 2022". A lot of the heavy lifting involved was done by Ethan Lee (also known as flibitijibibo), who mentioned on <a href="https://twitter.com/flibitijibibo/status/1486408822390509576" target="_blank">Twitter</a> that almost all of the work involved was funded by sponsors of their <a href="https://github.com/sponsors/flibitijibibo" target="_blank">GitHub</a>.</p><div id="qEmJzf2utORVzsN">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Thu, 27 Jan 2022 10:19:00 +0000</pubDate></item><item><title><![CDATA[The great cartoony adventure Zniw Adventure is now on GOG]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/the-great-cartoony-adventure-zniw-adventure-is-now-on-gog</link><guid>https://www.gamingonlinux.com/2022/01/the-great-cartoony-adventure-zniw-adventure-is-now-on-gog</guid><category><![CDATA[Adventure]]></category><category><![CDATA[Point & Click]]></category><category><![CDATA[GOG]]></category><category><![CDATA[DRM-Free]]></category><category><![CDATA[New Release]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/36503281id20397gol.jpg"/><description><![CDATA[<p><p>For those of you who stick to GOG.com, you can now grab another quality cartoony point and click adventure game with Zniw Adventure <a href="https://www.gog.com/en/game/zniw_adventure" target="_blank">now available</a>. A good excuse to remind you of this absolute little gem.</p>
+
+<p>Inspired by adventure games and edutainment titles from the 90's, Zniw Adventure is a 2D point and click title full of cartoon dinosaurs. It features a comic book-esque art style, frame-by-frame animation, and unlockable goodies like concept art and minigames. The in-game encyclopedia fills as you encounter prehistoric creatures allowing you to read more about them. Enjoy the prehistoric world in an unique cartoony style.</p>
+
+<a href="https://www.youtube.com/watch?v=lqVdtIbwcao" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/lqVdtIbwcao/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>Game Features:</p>
+
+<blockquote>
+<ul>
+	<li>Oldschool 4:3 cartoon visuals, featuring hand-drawn backgrounds and frame-by-frame animation.</li>
+	<li>More than 5 minutes of cartoon cutscenes.</li>
+	<li>In-game encyclopaedia, with descriptions of encountered prehistoric creatures, items, locations, and more.</li>
+	<li>More than 20 different dinosaurs and other prehistoric creatures to meet along the way.</li>
+	<li>No gore, blood, bad language, or anything like that. Fun for the entire family!</li>
+	<li>Several locations to explore, including forests, jungles, caves, and more.</li>
+	<li>Unlockable rewards that include concept artworks and minigames.</li>
+	<li>A pleasant, acoustic soundtrack, with over 15 different tracks.</li>
+</ul>
+</blockquote>
+
+<p>Buy it now on <a href="https://www.gog.com/en/game/zniw_adventure" target="_blank">GOG</a> or <a href="https://store.steampowered.com/app/904750/Zniw_Adventure/" target="_blank">Steam</a>.</p><div id="T0VIRsQYdG-1nkb">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Thu, 27 Jan 2022 10:06:17 +0000</pubDate></item><item><title><![CDATA[Steam Deck launches February 25, weekly purchase invites planned]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/steam-deck-launches-february-25</link><guid>https://www.gamingonlinux.com/2022/01/steam-deck-launches-february-25</guid><category><![CDATA[Steam]]></category><category><![CDATA[Upcoming]]></category><category><![CDATA[Hardware]]></category><category><![CDATA[Valve]]></category><category><![CDATA[Meta]]></category><category><![CDATA[Steam Deck]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/342371219id20396gol.jpg"/><description><![CDATA[<p><p>The date a great many have no doubt be waiting for, Valve has today <a href="https://store.steampowered.com/news/app/1675180/view/3117055056380003048" target="_blank">officially announced</a> their Steam Deck handheld will launch officially on February 25.</p>
+
+<p>It will go by the date each user put in their reservation of course, starting off with the first lucky few who managed to dodge Valve's server issues at the time. The first batch of order invitation emails go out on February 25, and each person has just 72 hours to make the actual purchase before it moves onto the <em>next</em> person in the queue.</p>
+
+<p>As for shipping? Valve say the first lot will go out from February 28 and they plan to send out a weekly invitation for more people to place an order. That actually sounds pretty <em>awesome</em>, so hopefully it will move along reasonably quickly, it certainly sounds like it.</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/20579706231643220497gol1.jpg" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/20579706231643220497gol1.jpg" /></a></p>
+
+<p>Valve has also confirmed they're arranging for review units to go out to press sites, so keep an eye out for your favourite sites to get their own hands-on time. Additionally, before the release on February 25 we will also see some preview impressions but they didn't say who would be doing it.</p>
+
+<p>Some very exciting times ahead.</p><div id="tkr1FeZ8uJOmOsk">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Wed, 26 Jan 2022 18:13:15 +0000</pubDate></item><item><title><![CDATA[Serious Sam: Siberian Mayhem is out, run it on Linux with one small change]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/serious-sam-siberian-mayhem-is-out-run-it-on-linux-with-one-small-change</link><guid>https://www.gamingonlinux.com/2022/01/serious-sam-siberian-mayhem-is-out-run-it-on-linux-with-one-small-change</guid><category><![CDATA[Review]]></category><category><![CDATA[Steam]]></category><category><![CDATA[FPS]]></category><category><![CDATA[Steam Play]]></category><category><![CDATA[New Release]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1912690488id20394gol.jpg"/><description><![CDATA[<p><p>Serious Sam: Siberian Mayhem is out now as a partnership between Timelock Studio and Croteam. It can run rather well on Linux, although you do need a quick adjustment for <a href="http://steamproton.com" target="_blank">Steam Play Proton</a>.</p>
+
+<p>This is a much shorter and simpler game than previous entries, as it's a sort-of standalone expansion that sits together with Serious Sam 4. Although, going in cold is not a big deal, since it's mostly the usual mindless fast-paced shooting you would expect from a Serious Sam game. The game actually started off life from a modding team, who under guidance from Croteam, turned it into an official game in the series.</p>
+
+<a href="https://www.youtube.com/watch?v=RWj7V67b5LQ" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/RWj7V67b5LQ/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>Out of the box, it does <em>work</em> on Linux with Proton and so it will on the Steam Deck too. However, there's <em>no</em> sound. A quick fix is available though! All you need to do is go into the sound settings and select <u>OpenAL</u> as the output instead of the default XAudio. After that, it all works as you would expect.</p>
+
+<p>Performance is a bit shaky though, which is true on Windows as well. Since it's using Croteam's game engine, you can swap Direct3D 11 for Vulkan in the Graphics options to get native Vulkan on Linux (instead of it going through DXVK). In my own testing (at least on NVIDIA), you're definitely going to want to hit the switch to Vulkan too, as it gave a boost of ~20FPS in most cases and was less stuttery too.</p>
+
+<p>It clearly needs some more optimization as a whole though, as other players have also noticed the low GPU usage and micro-stuttering that's completely random even with nothing happening. Most of the time it's okay and good enough to run and gun your way through it.</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/3707492161643208311gol1.jpg" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/3707492161643208311gol1.jpg" /></a></p>
+
+<p>You don't get much breathing space, your heart will be furiously pumping and your fingers may begin to ache as it's so fast. Perhaps a little too fast at times, everything feels like someone set a knocked a magical speed dial up. Honestly, it's like you're on roller skates but that is true of most Serious Sam games.</p>
+
+<p>It does the job quite nicely of making you feel like the ultimate bad-ass with no filler — it's all action. Unless you count a few optional side-missions, which are still full of completely insane action. A few dumb one-liners too because what's a hero without that? If that's what you're after, it's thoroughly entertaining.</p>
+
+<p>Available to buy on <a href="https://www.humblebundle.com/store/serious-sam-siberian-mayhem?partner=gamingonlinux&charity=12277" target="_blank">Humble Store</a> and <a href="https://store.steampowered.com/app/1792250/Serious_Sam_Siberian_Mayhem/" target="_blank">Steam</a>.</p><div id="7GWcKo44YBUEpPs">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Wed, 26 Jan 2022 15:01:10 +0000</pubDate></item><item><title><![CDATA[Windjammers 2 is out and it works perfectly on Linux]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/windjammers-2-is-out-and-it-works-perfectly-on-linux</link><guid>https://www.gamingonlinux.com/2022/01/windjammers-2-is-out-and-it-works-perfectly-on-linux</guid><category><![CDATA[Steam]]></category><category><![CDATA[Indie Game]]></category><category><![CDATA[Arcade]]></category><category><![CDATA[Steam Play]]></category><category><![CDATA[New Release]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/575690528id20393gol.jpg"/><description><![CDATA[<p><p>A little flying-disc on the go when you get your shiny Steam Deck? Windjammers 2 is out from Dotemu and it's absolutely brilliant, although I am completely horrible at it. <u>Note</u>: key provided by <a href="https://daredrop.com" target="_blank">Dare Drop</a>.</p>
+
+<p>An evolution of the 1994 Neo Geo arcade game, Windjammers 2 is a sequel decades in the making. Played with <a href="http://steamproton.com" target="_blank">Steam Play</a> Proton Experimental on Linux, the experience couldn't have been better - it was honestly just perfect. You face off in one-on-one matches that feels a bit like you're playing Air Hockey and it's absolutely just as manic. Nicely accessible too with easy to grasp controls but it's difficult!</p>
+
+<a href="https://www.youtube.com/watch?v=P1zighcAfC0" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/P1zighcAfC0/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>I never played the original to compare notes against but I can't imagine anyone being unhappy with how this turned out.</p>
+
+<p>While it is easy enough to pick up and play, the difficulty comes in mastering the various moves you have available. Like a fighting game, there's plenty of buttons you need to remember. We're not talking about long combinations though, it still manages to keep everything on a pretty level playing field for all involved. That's part of why I particularly liked this one. It's highly competitive, easy to get into and getting good at it will really take time but it's all perfectly streamlined.</p>
+
+<p>Visually it's absolutely stunning too. Vibrant cartoony visuals like something out of a Saturday morning cartoon. It fits the overall theme of the game to perfection.</p>
+
+<p>Game Features:</p>
+
+<blockquote>
+<ul>
+	<li><strong>The Spirit of a Classic:</strong> A faithful sequel channeling the lightning-quick battles and responsive action from the original <em>Windjammers</em> that fans fell in love with decades ago.</li>
+	<li><strong>Hand-Drawn Throwdowns:</strong> Fluid 2D animation converts each match’s intense energy and emotion into a beautiful spectacle that’s a joy to both play and watch.</li>
+	<li><strong>New Characters, Stages & Moves:</strong> New challengers, courts, and character abilities add variety and new layers of strategy onto the series’ classic competitive action.</li>
+	<li><strong>Arcade Mode:</strong> Conquer a tournament of matches against AI rivals as well as optional challenges, which reward versatile athletes able to adapt their playstyles on the fly.</li>
+	<li><strong>Approachable Complexity:</strong> Easy to understand mechanics let players of any skill level jump into the fun, with deeply strategic play also available for the fiercest competitors.</li>
+	<li><strong>Local and Online Multiplayer:</strong> Blaze the court with opponents around the world in ranked online play or quick matches, or take on rivals at home.</li>
+	<li><strong>Minigames:</strong> Unwind from the competition by chucking a power disc for a canine friend in Hot Dog Distance, or smash through a volley of targets in the all-new Disc Attack.</li>
+</ul>
+</blockquote>
+
+<p>You can buy it on <a href="https://store.steampowered.com/app/1114290/Windjammers_2/" target="_blank">Steam</a>. There's a 10% launch discount until the end of January 27.</p><div id="02w4tSWVeTmnR6F">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Wed, 26 Jan 2022 13:08:58 +0000</pubDate></item><item><title><![CDATA[Half-Life 2 getting a new UI in prep for Steam Deck]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/half-life-2-getting-a-new-ui-in-prep-for-steam-deck</link><guid>https://www.gamingonlinux.com/2022/01/half-life-2-getting-a-new-ui-in-prep-for-steam-deck</guid><category><![CDATA[Steam]]></category><category><![CDATA[FPS]]></category><category><![CDATA[Beta]]></category><category><![CDATA[Valve]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/564324752id20392gol.jpg"/><description><![CDATA[<p><p>Valve continue burning the midnight oil as it's getting close to the Steam Deck launch now. Their classics continue getting updated, with Half-Life 2 getting a new UI.</p>
+
+<p>While they've already added Vulkan support to multiple older titles using DXVK-Native, it appears they're now moving on to make more changes to help players on gamepads work with their games. It makes sense of course, since having their own games work great on the Steam Deck is a must.</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/11059508301643191748gol1.jpg" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/11059508301643191748gol1.jpg" /></a><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/5379551581643191749gol1.jpg" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/5379551581643191749gol1.jpg" /></a></p>
+
+<p>You can opt into the Beta branch for Half-Life 2 on Steam and set "-gamepadui" as a launch option. Right now though, it doesn't seem to work in the Linux version but does show up when running it with <a href="http://steamproton.com" target="_blank">Steam Play Proton</a>. It's currently a work in progress.</p>
+
+<p>Will be interesting to see if / when they give the same treatment to other titles as needed to get them feeling a little bit more modern. The old grey boxed UI for Valve games is a bit rough now, it didn't age too well.</p><div id="bs6W3zzp2itNEmi">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Wed, 26 Jan 2022 10:15:39 +0000</pubDate></item><item><title><![CDATA[The legendary classic Supaplex series comes to Linux on Steam]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/the-legendary-classic-supaplex-series-comes-to-linux-on-steam</link><guid>https://www.gamingonlinux.com/2022/01/the-legendary-classic-supaplex-series-comes-to-linux-on-steam</guid><category><![CDATA[Steam]]></category><category><![CDATA[Indie Game]]></category><category><![CDATA[Puzzle]]></category><category><![CDATA[Retro]]></category><category><![CDATA[New Release]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/516418486id20391gol.jpg"/><description><![CDATA[<p><p>Supaplex, a game originally released back in 1991 now has multiple modern versions available on Steam and it seems the developers have now added Linux support years later.</p>
+
+<p>Originally created as an extended clone of Boulder Dash, Supaplex is known for its difficulty. By modern standards, there's probably far more exciting puzzle games to look for but as a good bit of nostalgia it seems to do the job just right.</p>
+
+<a href="https://www.youtube.com/watch?v=h8Zx3mqe3rs" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/h8Zx3mqe3rs/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>From what I can see, these games are <em>not</em> from the original developers so they're actually remakes. It's not entirely clear how they've been able to use the Supaplex name but it seems no one is around from the 90's to cause a fuss over it.</p>
+
+<p>On Steam they have a few versions of it including Supaplex, Supaplex HARD and Supaplex SQUARES - all of which now have native Linux support and it seems the developers are working towards bringing Linux support to the other titles they have up in the series too.</p>
+
+<p>You can find them all on <a href="https://store.steampowered.com/search/?developer=InArcade" target="_blank">Steam</a>.</p><div id="TVQwznG135_sKNd">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Wed, 26 Jan 2022 09:57:16 +0000</pubDate></item><item><title><![CDATA[Ahead of Dying Light 2, the original Dying Light gets a big event]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/ahead-of-dying-light-2-the-original-dying-light-gets-a-big-event</link><guid>https://www.gamingonlinux.com/2022/01/ahead-of-dying-light-2-the-original-dying-light-gets-a-big-event</guid><category><![CDATA[Steam]]></category><category><![CDATA[Action]]></category><category><![CDATA[Zombies]]></category><category><![CDATA[Open World]]></category><category><![CDATA[Game Event]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1515392434id20390gol.jpg"/><description><![CDATA[<p><p>You have to appreciate the effort Techland has put into supporting Dying Light, giving it new updates and events 7 years after release and now a fresh big event is live.</p>
+
+<p>Spike's Story: Last Call follows the events after the death of a major antagonist but there's plenty of bandits left to take care of. They're flooding Harran in a frenzy and they've hit a survivor shelter, which has resulted in many more Virals in your way. Spike has organised a safe zone but many need help getting there. It's time for you to step in and help as many as possible and for your efforts, you will get a special melee weapon — the Crankshaft. You're not alone this time either, as a bunch of friendly survivors in special protection suits will be around to fight with you. Sounds like a Zombie-smashing good time.</p>
+
+<p>The event, which Techland say is only part one, runs until January 28 19:00 CET / 18:00 UTC. We <em>can't</em> show you the trailer, as YouTube decided it was age-restricted and only allows you to watch via YouTube directly - so it's <a href="https://www.youtube.com/watch?v=7u5ofxDJAlE" target="_blank">over there</a> if you want to see it.</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/8282304661643218291gol1.jpg" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/8282304661643218291gol1.jpg" /></a></p>
+
+<p>You can buy Dying Light from <a href="https://www.humblebundle.com/store/dying-light-the-following-enhanced-edition?partner=gamingonlinux&charity=12277" target="_blank">Humble Store</a> and <a href="https://store.steampowered.com/app/239140/Dying_Light/" target="_blank">Steam</a>.</p>
+
+<p>We'll be checking out Dying Light 2 with Steam Play Proton at release, so stay tuned. Dying Light 2 has pre-orders up on <a href="https://www.humblebundle.com/store/dying-light-2-stay-human?partner=gamingonlinux&charity=12277" target="_blank">Humble Store</a> and <a href="https://store.steampowered.com/app/534380/Dying_Light_2_Stay_Human/" target="_blank">Steam</a> for release on February 4.</p><div id="gwiafev4B2cvO5a">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Wed, 26 Jan 2022 09:39:59 +0000</pubDate></item><item><title><![CDATA[The Blackwell Bundle brings all the adventures back to Linux]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/the-blackwell-bundle-brings-all-the-adventures-back-to-linux</link><guid>https://www.gamingonlinux.com/2022/01/the-blackwell-bundle-brings-all-the-adventures-back-to-linux</guid><category><![CDATA[Steam]]></category><category><![CDATA[Indie Game]]></category><category><![CDATA[Adventure]]></category><category><![CDATA[Point & Click]]></category><category><![CDATA[GOG]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1503142872id20389gol.jpg"/><description><![CDATA[<p><p>Point and click adventure fans will be happy as the complete The Blackwell Bundle is now supported on Linux.</p>
+
+<p>Wadjet Eye Games went back and upgraded all entries in the series to either upgrade the existing version and fix Linux issues, re-add Linux support or add new Linux support. On top of that, each game in the series also had an update to fix other reported issues.</p>
+
+<p>"In the Blackwell Legacy, you are introduced to Rosangela as she meets Joey Mallone for the first time and is called upon to investigate a series of mysterious suicides at a local university. An enigmatic killer and a string of seemingly unconnected accidents set the background for Blackwell Unbound. Blackwell Convergence will have you investigating a film premiere that hides a bloody past. In Blackwell Deception you’ll investigate why the customers of various street psychics seem to die under very mysterious circumstances. And finally, in Blackwell Epiphany, you will find out the true reason why Rosa became a medium, and her ultimate destiny."</p>
+
+<a href="https://www.youtube.com/watch?v=knpNvbbqCQE" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/knpNvbbqCQE/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>The full bundle can be seen on <a href="https://store.steampowered.com/bundle/6377/The_Blackwell_Bundle/" target="_blank">Steam</a> containing:</p>
+
+<ul>
+	<li>The Blackwell Legacy</li>
+	<li>Blackwell Unbound</li>
+	<li>Blackwell Convergence</li>
+	<li>Blackwell Deception</li>
+	<li>Blackwell Epiphany</li>
+</ul>
+
+<p>GOG also <a href="https://www.gog.com/game/blackwell_bundle" target="_blank">has it</a>, but the final game is by <a href="https://www.gog.com/game/the_blackwell_epiphany" target="_blank">itself</a>.</p><div id="BDWnZKZpzNHLCpZ">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Wed, 26 Jan 2022 09:05:34 +0000</pubDate></item><item><title><![CDATA[Cities: Skylines - Airports DLC is out now with some extra DLC packs]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/cities-skylines-airports-dlc-is-out-now-with-some-extra-dlc-packs</link><guid>https://www.gamingonlinux.com/2022/01/cities-skylines-airports-dlc-is-out-now-with-some-extra-dlc-packs</guid><category><![CDATA[DLC]]></category><category><![CDATA[New Release]]></category><category><![CDATA[Paradox Interactive]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/2028733578id20388gol.jpg"/><description><![CDATA[<p><p>Paradox and Colossal Order have today release a number of DLC packs including Cities: Skylines - Airports.</p>
+
+<a href="https://www.youtube.com/watch?v=G4BYaBnbRVA" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/G4BYaBnbRVA/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>The expansion includes:</p>
+
+<p> </p>
+
+<blockquote>
+<ul>
+	<li>Modular Airport Building: Connect terminals, gates, and other airport buildings via concourse networks, designing your own perfect airport.</li>
+	<li>Airport Progression: The more business and tourism travel that you attract to your city the more your airport will progress, with additional building options, larger planes, and more revenue for local industry!</li>
+	<li>Public transport: Sometimes the hardest part of traveling is getting to the airport itself. Connect your new travel hub to your bustling city via transport buildings like bus, metro, and train stations.</li>
+	<li>Cargo Air Traffic: People aren’t the only ones traveling by air, and you need not stick your cargo terminals off in the outskirts of your city. Build new cargo terminals that fit with your airport, connect them to the complex, and eliminate eyesores while bringing in new goods for your citizens.</li>
+</ul>
+</blockquote>
+
+<p>"The teams at Paradox Interactive and Colossal Order are excited to give fans an all new transportation option to integrate into their designs" said Magnus Lysell, Cities: Skylines Product Manager at Paradox Interactive. “Fans have long been requesting the possibility to integrate airports into their cities, and we can’t wait to see the things our community delivers with these new tools."</p>
+
+<p>In addition these new extra DLC packs were also released:</p>
+
+<blockquote>
+<ul>
+	<li>Content Creator Map Pack: Featuring 8 new terrain maps by Sanctum Gamer, unleash your city-building creativity on new and unique landscapes.</li>
+	<li>Content Creator Pack: Vehicles Of The World: A set of 21 new vehicle assets from around the globe, brought to you by bsquicklehausen. Fill the streets of your cities with iconic service vehicles, like a Police Supercar and more!</li>
+	<li>Calm The Mind Radio: When city-building stresses you out, tune that dial to Calm the Mind Radio. The game’s relaxation radio station will bring chill vibes into your architectural workflow.  </li>
+	<li>On Air Radio: Cool cats rejoice, On Air Radio brings jazz beats to Cities: Skylines. Ideal for building the smoothest cities around, ya dig?</li>
+</ul>
+</blockquote>
+
+<p>There was also a free update released that lets you mess around with a bunch of new trees.</p>
+
+<p>You can pick up Cities: Skylines from <a href="https://www.humblebundle.com/store/cities-skylines?partner=gamingonlinux" target="_blank">Humble Store</a> and <a href="https://store.steampowered.com/app/255710/Cities_Skylines/?curator_clanid=4218320" target="_blank">Steam</a>.</p><div id="I5aAzhXsHZ1zCOx">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Tue, 25 Jan 2022 15:57:30 +0000</pubDate></item><item><title><![CDATA[Vulkan API 1.3 released, new roadmap and profiles feature]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/vulkan-api-13-released-new-roadmap-and-profiles-feature</link><guid>https://www.gamingonlinux.com/2022/01/vulkan-api-13-released-new-roadmap-and-profiles-feature</guid><category><![CDATA[Vulkan]]></category><category><![CDATA[Drivers]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/tagline_gallery/vulkan.png"/><description><![CDATA[<p><p>Today is the release of the Vulkan API 1.3 specification update and The Khronos Group has put up a <a href="https://www.khronos.org/news/press/vulkan-reduces-fragmentation-and-provides-roadmap-visibility-for-developers" target="_blank">press release</a> going over the changes. A vital API for the future of Linux gaming and the Steam Deck of course, with <a href="http://steamproton.com" target="_blank">Steam Play Proton</a> using Vulkan for the translation from Direct 3D for DXVK and VKD3D-Proton.</p>
+
+<p>At a glance:</p>
+
+<blockquote>
+<ul>
+	<li>The <a href="https://khr.io/vulkan13spec" target="_blank">Vulkan® 1.3 specification</a> was released today, incorporating and mandating proven, developer-requested extensions to make that functionality consistently available across all supported platforms.</li>
+	<li>The Vulkan Working Group is developing a public roadmap to provide guidance on when and where more advanced Vulkan functionality will be supported. The Vulkan Roadmap 2022 milestone for mid-to-high-end hardware defines features beyond Vulkan 1.3 that will be available starting this year.</li>
+	<li>Vulkan profiles will be introduced, with tooling, in the February 2022 Vulkan 1.3 SDK to precisely specify, manage and use sets of API capabilities. Profiles will be used to communicate functionality requirements for roadmaps, markets, platforms, and hardware and software developers.</li>
+</ul>
+</blockquote>
+
+<p>Vulkan 1.3 includes a number of extensions into the main core of Vulkan like dynamic rendering, an improved synchronization API and various other features. Khronos mentioned that no features added in 1.3 are optional to ensure consistency across the industry.</p>
+
+<p>“In this new phase of Vulkan's evolution, the Vulkan Working Group is taking significant steps to reduce fragmentation across the ecosystem and increase Vulkan’s value to the industry as a reliable cross-platform GPU API. We continue to expose new hardware features as extensions while improving the Vulkan API with new core versions that are portable to a wide range of devices. And now with the Vulkan Roadmap, we are committing to enhanced transparency and communication to forge industry consensus on baseline functionality Profiles that best serve Vulkan’s key markets,” said Tom Olson, Vulkan Working Group Chair and Distinguished Engineer at Arm.</p>
+
+<p>Vulkan continues to see industry-wide support from AMD, NVIDIA, Arm, Google and more companies.</p>
+
+<p>On the driver side things are looking to be in pretty good shape. NVIDIA has release their new <a href="https://developer.nvidia.com/vulkan-driver" target="_blank">Vulkan Beta Driver</a> version 470.62.22 which includes a "Fully conformant Vulkan 1.3 implementation".  On the open source Mesa side there's merge requests up for <a href="https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/14706" target="_blank">Intel ANV</a> and <a href="https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/14707" target="_blank">AMD RADV</a>. NVIDIA also have their <a href="https://developer.nvidia.com/blog/vulkan-1-3-broadens-cross-platform-functionality-with-developer-requested-features/" target="_blank">own blog post</a> going over some details.</p><div id="zSySG4E6uscHE7q">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Tue, 25 Jan 2022 14:11:47 +0000</pubDate></item><item><title><![CDATA[Lutris game manager getting Ubisoft Connect integration]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/lutris-game-manager-getting-ubisoft-connect-integration</link><guid>https://www.gamingonlinux.com/2022/01/lutris-game-manager-getting-ubisoft-connect-integration</guid><category><![CDATA[Open Source]]></category><category><![CDATA[Upcoming]]></category><category><![CDATA[Apps]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/382690626id20386gol.jpg"/><description><![CDATA[<p><p>Is any service safe from Lutris? Apparently not. This impressive free and open source game manager will gain support for another way to install games on Linux in an upcoming update.</p>
+
+<p>Just like the <a href="https://www.gamingonlinux.com/2022/01/lutris-game-manager-adds-support-for-origin-integration/" target="_blank">previous article</a> highlighting the upcoming Origin support, this newly introduced Ubisoft Connect is not available in a released build as they code has only recently been added to the <a href="https://github.com/lutris/lutris/commit/33145425e4e986df4b86a055411c093ce71a43bd" target="_blank">GitHub</a> development area. Lead dev Mathieu Comandon once again teased this on Twitter:</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/7221804741643115003gol1.jpg" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/7221804741643115003gol1.jpg" /></a></p>
+
+<p>Once the new release is out it means Lutris will help Linux gamers sort through Steam, GOG, Humble Bundle, Origin, Ubisoft, Epic Games, lots of different emulators and more. It really is turning into the all-you-can-eat of Linux gaming.</p>
+
+<p>See more about Lutris on the <a href="https://lutris.net/" target="_blank">official site</a>.</p><div id="6srwNr3XrfxKiOZ">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Tue, 25 Jan 2022 12:52:34 +0000</pubDate></item><item><title><![CDATA[SUPERHOT: MIND CONTROL DELETE fixes up Steam Deck support]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/superhot-mind-control-delete-fixes-up-steam-deck-support</link><guid>https://www.gamingonlinux.com/2022/01/superhot-mind-control-delete-fixes-up-steam-deck-support</guid><category><![CDATA[Steam]]></category><category><![CDATA[Indie Game]]></category><category><![CDATA[FPS]]></category><category><![CDATA[Humble Store]]></category><category><![CDATA[GOG]]></category><category><![CDATA[Update]]></category><category><![CDATA[Steam Deck]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1321422725id20385gol.jpg"/><description><![CDATA[<p><p>SUPERHOT: MIND CONTROL DELETE had a small patch released today and it seems they're another developer hoping to see their game fully verified for the upcoming Steam Deck handheld from Valve.</p>
+
+<p>This first-person shooter is built on the foundation of the original hit SUPERHOT, where time moves in slow motion until you make a move. It's a huge amount of fun and it's highly replayable thanks to it having basically more of everything. It seems like a game that would be great to have on the go.</p>
+
+<p>In the small update release today the developer mentioned this:</p>
+
+<blockquote>
+<p>• Steam Deck compatibility<br />
+• unified save names for PC - MAC/Linux<br />
+• bug fixes (including Infinite lvl 90 lock)</p>
+</blockquote>
+
+<p>They didn't go into any detail, that's it. Still nice to see though. The unifying of save names is a big one actually for the Steam Deck, since the majority of PC gamers still use Windows. For people switching between Windows and a Steam Deck (Linux) - you want your saves to match. So let this be a reminder to other developers, keep your saves named the same.</p>
+
+<a href="https://www.youtube.com/watch?v=q-c4Q97rYOo?rel=0&start=0" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/q-c4Q97rYOo?rel=0&start=0/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>If you wish to pick up SUPERHOT: MIND CONTROL DELETE it's available from the <a href="https://www.humblebundle.com/store/superhot-mind-control-delete?partner=gamingonlinux" target="_blank">Humble Store</a>, <a href="https://af.gog.com/game/superhot_mind_control_delete?as=1636858786" target="_blank">GOG</a> and <a href="https://store.steampowered.com/app/690040/SUPERHOT_MIND_CONTROL_DELETE/?curator_clanid=4218320" target="_blank">Steam</a>.</p><div id="0HSGrQlagN0YUcB">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Tue, 25 Jan 2022 11:06:44 +0000</pubDate></item><item><title><![CDATA[Heroic Games Launcher for Epic Games on Linux adds gamepad support]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/heroic-games-launcher-for-epic-games-on-linux-adds-gamepad-support</link><guid>https://www.gamingonlinux.com/2022/01/heroic-games-launcher-for-epic-games-on-linux-adds-gamepad-support</guid><category><![CDATA[Open Source]]></category><category><![CDATA[Apps]]></category><category><![CDATA[Epic Games]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/2123801283id20384gol.jpg"/><description><![CDATA[<p><p>Making things even easier for the upcoming Steam Deck, the unofficial Heroic Games Launcher for Epic Games can now be navigated with a gamepad. Testing it out today, it works really nicely too. Just goes to show what amazing things a community can do, even when Epic doesn't support Linux directly with their store.</p>
+
+<p>You even get a nice on-screen keyboard show up for text input - very nice.</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/11067940651643107886gol1.png" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/11067940651643107886gol1.png" /></a></p>
+
+<p>Other improvements in the Heroic 2.1.0 release include the app remembering window size and position, CTRL+F shortcut for the search bar in the library, a new Wine Downloader feature to easily get new versions of Wine-GE and Proton-GE, the app will check the status of Epic's servers and give warnings on issues and a few other assorted UI updates and bug fixes.</p>
+
+<p>Work is still <a href="https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/pull/515" target="_blank">in progress</a> to support Flatpak / Flathub, once that is done installing this on a Steam Deck or any other Linux distribution should be super-simple.</p>
+
+<p>You can find it on <a href="https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher" target="_blank">GitHub</a>.</p><div id="w8jJAGGzDcJDOjo">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Tue, 25 Jan 2022 10:56:13 +0000</pubDate></item><item><title><![CDATA[We're living in a weird world with Sony's Shuhei Yoshida excited about a Linux handheld]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/were-living-in-a-weird-world-with-sonys-shuhei-yoshida-excited-about-a-linux-handheld</link><guid>https://www.gamingonlinux.com/2022/01/were-living-in-a-weird-world-with-sonys-shuhei-yoshida-excited-about-a-linux-handheld</guid><category><![CDATA[Editorial]]></category><category><![CDATA[Steam]]></category><category><![CDATA[Valve]]></category><category><![CDATA[Meta]]></category><category><![CDATA[Steam Deck]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1940097775id20383gol.jpg"/><description><![CDATA[<p><p>Sometimes it feels like I've somehow fallen through the multiverse into a very different and thoroughly weird world. When Valve put Steam on Linux back in 2013 (<a href="https://www.gamingonlinux.com/2021/07/faster-zombies-to-steam-deck-the-history-of-valve-and-linux-gaming/" target="_blank">see our full history</a>), who could have imagined what that would bring us many years later?</p>
+
+<p>At the end of February the Steam Deck should be releasing to the lucky first few who managed to get their reservation in (not me), ushering in a new era of PC gaming on the go. A Linux handheld. Powered by SteamOS 3, Valve's latest bundling of Steam with open source based on Arch Linux. Excitement levels keep rising every time Valve announce something new, but its the posts from developers we keep seeing with units that really gets us excited.</p>
+
+<p>When you have the likes of Shuhei Yoshida, the Head of Sony PlayStation Indies (and former President of SCE Worldwide Studios), putting up a clearly very excited <a href="https://twitter.com/yosp/status/1484010884292698116/photo/1" target="_blank">Twitter post</a> showing off a previously PlayStation <em>exclusive</em> running on a Linux handheld (the Steam Deck), you know something big is brewing that's about to be unleashed on the world.</p>
+
+<p style="text-align:center"><em><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/7007083871643103026gol1.jpg" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/7007083871643103026gol1.jpg" /></a>Pictured - God of War on a Steam Deck, credit: Shuhei Yoshida</em></p>
+
+<p>The gaming landscape is ever-changing but the past few years felt bigger than before. Sony are allowing more previously exclusive games to leave their platform, Microsoft are doing the same and now thanks to the likes of <a href="http://steamproton.com" target="_blank">Steam Play Proton</a> - we even get to play them on desktop Linux. Seeing an Xbox Studios or PlayStation Studios logo shine brightly on a Linux box is just such a strange feeling. Thanks to Valve again, we shall soon even see that on the go or on the toilet.</p>
+
+<p>It absolutely is going to be the year of Linux on the de…Steam Deck. Please don't let the multiverse send me back to whatever boring world I came from, I don't want to get off this ride.</p><div id="P_Ko06nqeIbCePZ">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Tue, 25 Jan 2022 09:41:11 +0000</pubDate></item><item><title><![CDATA[Dynamic Cloud Sync to let you easily switch between PC and Steam Deck]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/dynamic-cloud-sync-to-let-you-easily-switch-between-pc-and-steam-deck</link><guid>https://www.gamingonlinux.com/2022/01/dynamic-cloud-sync-to-let-you-easily-switch-between-pc-and-steam-deck</guid><category><![CDATA[Steam]]></category><category><![CDATA[Valve]]></category><category><![CDATA[Meta]]></category><category><![CDATA[Steam Deck]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1675517453id20382gol.jpg"/><description><![CDATA[<p><p>Valve has announced the latest upgrade to help players with a Steam Deck. It's called <a href="https://steamcommunity.com/groups/steamworks/announcements/detail/3142949576401813670" target="_blank">Dynamic Cloud Sync</a> and will let you easily switch between your PC and a Steam Deck.</p>
+
+<p>The idea is that when you enter suspend mode on the Steam Deck, like you might with other consoles, the Steam Deck will then upload any modified save data to the Steam Cloud ready to be picked up anywhere else. When you wake the device, it will then automatically download any changes ready for you to carry on.</p>
+
+<p>Valve say this is not a requirement but they "recommend" developer use it to give players the best experience possible. Without it though, there may be problems as Valve say: "Without Dynamic Cloud Sync enabled, Steam will still track when save game data is changed on the Steam Deck. However, any user who suspends their Deck while your game is running and then tries to resume that game on a different device, will be prompted to first return to their Deck to close the running process or continue without their most recent save game progress".</p>
+
+<p>It's free to use but not automatic so developers must do some work to take advantage of it. This includes new integrations into games, which is where some problems may arise. This has been announced really close to the release of the Steam Deck, which of course is not ideal for developers who are often already overworked. Are many likely to go back through their older titles to add it in? It doesn't seem overly likely.</p>
+
+<p>FNA developer and game porter Ethan Lee mentioned on <a href="https://twitter.com/flibitijibibo/status/1485743783329337350" target="_blank">Twitter</a>: "Considering an overwhelming majority of titles I see use autocloud I'm hoping sleep mode triggers a transaction and resuming makes it go 'we detected new save data from another PC, do you want to restart the game?' because no way is anyone going into their back catalog for _this_".</p>
+
+<p>Developer Tyler Glaiel (The End is Nigh, Bombernauts, The Basement Collection and more) also seemed <a href="https://twitter.com/TylerGlaiel/status/1485738462560980994" target="_blank">unimpressed</a> on Twitter <a href="https://twitter.com/TylerGlaiel/status/1485744272095670273" target="_blank">too</a>.</p>
+
+<p>It is more work for developers but hopefully over time it will become something developers think on during development. As players, we can just hope developers find easy enough ways to implement it and share that with others.</p>
+
+<p><em>Be sure to follow our <a href="https://www.gamingonlinux.com/articles/category/Steam_Deck/" target="_blank">Steam Deck tag</a> for all the news. All tags have a dedicated RSS feed.</em></p><div id="_@iEP5RJcD9ns2K">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Tue, 25 Jan 2022 09:15:39 +0000</pubDate></item><item><title><![CDATA[DXVK 1.9.4 is out as Valve prepares Proton 7.0]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/dxvk-194-is-out-as-valve-prepares-proton-70</link><guid>https://www.gamingonlinux.com/2022/01/dxvk-194-is-out-as-valve-prepares-proton-70</guid><category><![CDATA[Steam]]></category><category><![CDATA[Open Source]]></category><category><![CDATA[Valve]]></category><category><![CDATA[Steam Play]]></category><category><![CDATA[Meta]]></category><category><![CDATA[Steam Deck]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/tagline_gallery/proton.jpg"/><description><![CDATA[<p><p>The Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine named DXVK (used with Proton) has a 1.9.4 version release, plus it appears that Proton 7.0 is closing in. More info on Steam Play Proton on our <a href="http://steamproton.com" target="_blank">dedicated page</a>.</p>
+
+<p>DXVK 1.9.4 is quite a small one simply preparing for the next Proton release, here's what's new:</p>
+
+<blockquote>
+<ul>
+	<li>Fixed an issue that would cause VRAM to not be utilized on RBAR-enabled Nvidia GPUs if the <code class="inline-code">dxvk.shrinkNvidiaHvvHeap</code> option is enabled (<a class="issue-link js-issue-link" href="https://github.com/doitsujin/dxvk/issues/2438" target="_blank">#2438</a>).</li>
+	<li>Enabled strict D3D9 float emulation by default on future versions of RADV. This may improve both accuracy and GPU-bound performance (PR <a class="issue-link js-issue-link" href="https://github.com/doitsujin/dxvk/pull/2448" target="_blank">#2448</a>).</li>
+	<li>Improved memory allocation behaviour. This may reduce memory usage especially in games that create multiple processes or D3D devices.</li>
+	<li>Removed obsolete options to disable OpenVR support.</li>
+	<li><strong>God of War</strong>: Enabled performance optimizations and DLSS support. <em>Note that these changes are already included in Proton Experimental.</em></li>
+</ul>
+</blockquote>
+
+<p>More exciting is that it appears we shall be getting a new version of Proton soon, which will be rebased on the most recent Wine 7.0 release. You can see on <a href="https://steamdb.info/app/1493710/history/?changeid=13748510" target="_blank">SteamDB</a> that the Proton team has been preparing it with a currently private Release Candidate in testing too. This should hopefully bring more compatibility for Windows games ready for the Steam Deck to release in February.</p>
+
+<p><em>Be sure to follow our <a href="https://www.gamingonlinux.com/articles/category/Steam_Deck/" target="_blank">Steam Deck tag</a> for all the news. All tags have a dedicated RSS feed.</em></p><div id="Rbidsq-Qy0awKhS">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Tue, 25 Jan 2022 09:00:22 +0000</pubDate></item><item><title><![CDATA[Godot Engine 4.0 Alpha 1 is out with Vulkan support, rendering overhaul]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/godot-engine-40-alpha-1-is-out-with-vulkan-support-rendering-overhaul</link><guid>https://www.gamingonlinux.com/2022/01/godot-engine-40-alpha-1-is-out-with-vulkan-support-rendering-overhaul</guid><category><![CDATA[Open Source]]></category><category><![CDATA[Game Engine]]></category><category><![CDATA[Vulkan]]></category><category><![CDATA[Apps]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1795702743id20379gol.jpg"/><description><![CDATA[<p><p>Free and open source game dev tech Godot Engine is jumping up a few levels today with the absolutely massive release of Godot Engine 4.0 Alpha 1. This is going to change the game in huge ways.</p>
+
+<p>This version has been in development for multiple years, with an aim to bring Godot closer to the graphical power and standards being set by the bigger lot (Unity / Unreal etc). All work being done has been in addition to the usual updates to the 3.x branch that is still ongoing too. Godot 4 though brings with it massive changes to the very core of Godot.</p>
+
+<p style="text-align:center"><em><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/5987842931643039925gol1.jpg" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/5987842931643039925gol1.jpg" /></a>3D Scene example from Godot 4 with reflections</em></p>
+
+<p>Some of the major additions include:</p>
+
+<ul>
+	<li>Vulkan API support with two backends:
+	<ul>
+		<li>Clustered - for desktop.</li>
+		<li>Vulkan Mobile - speaks for itself, but also supports desktop - meant for simpler games.</li>
+	</ul>
+	</li>
+	<li>Absolutely masses of new graphics features like: specular mapping when using 2D lighting, fully real-time VoxelGI, signed distance field-based global illumination (SDFGI) for open world lighting, volumetric fog with optional GI contribution, new GPU-based lightmapper and the list goes on.</li>
+	<li>Shader compiler rewritten from scratch.</li>
+	<li>Major text rendering upgrades, with right-to-left language support.</li>
+	<li>Overhaul to importing 3D assets, with a big speed bump too.</li>
+	<li>New TileMap and TileSet editors with better usability.</li>
+	<li>Godot Physics system to replace Bullet.</li>
+	<li>Support for multiple windows of the Editor.</li>
+	<li>GDScript was rewritten from scratch with a cleaner approach.</li>
+</ul>
+
+<p>See the full announcement post on the <a href="https://godotengine.org/article/dev-snapshot-godot-4-0-alpha-1" target="_blank">Godot blog</a>. A full list of changes is still being put together that you can see <a href="https://github.com/godotengine/godot/blob/master/CHANGELOG.md#40---tbd" target="_blank">up on GitHub</a> and it's pretty long!</p><div id="urMurqTwe6z@7X-">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Mon, 24 Jan 2022 15:59:34 +0000</pubDate></item><item><title><![CDATA[GOG have a big New Year Sale now live with tons of good deals]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/gog-have-a-big-new-year-sale-now-live-with-tons-of-good-deals</link><guid>https://www.gamingonlinux.com/2022/01/gog-have-a-big-new-year-sale-now-live-with-tons-of-good-deals</guid><category><![CDATA[Game Sale]]></category><category><![CDATA[GOG]]></category><category><![CDATA[DRM-Free]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1827758243id20378gol.jpg"/><description><![CDATA[<p><p>Looking for something to keep you warm during these cold weeks? <a href="https://www.gog.com/" target="_blank">GOG.com</a> might have the answer with their New Year Sale.</p>
+
+<p>It starts off with a Flash Deal on the epic <a href="https://www.gog.com/en/game/icewind_dale_enhanced_edition" target="_blank">Icewind Dale: Enhanced Edition</a> that has 85% off and there will be new Flash Deals every couple days. No giveaways this time though it seems. For this sale GOG set up a few special lists you can check out like:</p>
+
+<ul>
+	<li><a href="https://www.gog.com/promo/2022_new_year_famous_classics" target="_blank">Famous Classics</a></li>
+	<li><a href="https://www.gog.com/promo/2022_new_year_dream_big" target="_blank">Great Titles & Great Discounts</a></li>
+	<li><a href="https://www.gog.com/promo/2022_new_year_tabletop" target="_blank">Tabletop Adaptions</a></li>
+	<li><a href="https://www.gog.com/promo/2022_new_year_unforgettable_journeys" target="_blank">Unforgettable Journeys</a></li>
+</ul>
+
+<p>Today they also saw new releases of <a href="https://www.gog.com/game/gas_station_simulator" target="_blank">Gas Station Simulator </a>and  <a href="https://www.gog.com/game/xcom_chimera_squad" target="_blank">XCOM: Chimera Squad</a>. Both of which should work well enough with the Wine compatibility layer.</p>
+
+<p>If you find any particularly great deals, do let fellow readers know in the comments.</p>
+
+<p><a href="https://www.gog.com/" target="_blank">Head over to GOG.com</a> for all the discounts. The sale runs until January 31, 2PM UTC.</p><div id="FzvYvIBMh9JXTya">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Mon, 24 Jan 2022 14:26:50 +0000</pubDate></item><item><title><![CDATA[Steam broke its own record for online users once again, hitting 29 million]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/steam-broke-its-own-record-for-online-users-once-again-hitting-29-million</link><guid>https://www.gamingonlinux.com/2022/01/steam-broke-its-own-record-for-online-users-once-again-hitting-29-million</guid><category><![CDATA[Steam]]></category><category><![CDATA[Valve]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/tagline_gallery/Steam-Logo.jpg"/><description><![CDATA[<p><p>Over the weekend it seems that Steam once again managed to break some records. Where do all these new people keep coming from? Only <a href="https://www.gamingonlinux.com/2022/01/there-it-is-steam-breaks-28-million-users-online/" target="_blank">two weeks or so</a> ago Steam just hit 28 million online, now it's already blasted through 29 million to hit a new high of <strong>29,201,174</strong>.</p>
+
+<p>At that time there we 8,505,375 people actually in-game too, which is a nice bump over when the previous record hit so it's clearly not just people idling away.</p>
+
+<p>What was popular this time with players? Mostly the usual suspects, with one newcomer being Yu-Gi-Oh:</p>
+
+<ul>
+	<li>Counter-Strike: Global Offensive</li>
+	<li>Dota 2</li>
+	<li>PUBG: Battlegrounds</li>
+	<li>Yu-Gi-Oh! Master Duel</li>
+	<li>Apex Legends</li>
+	<li>Grand Theft Auto V</li>
+</ul>
+
+<p>What do we think, an easy 30 million+ online by the end of 2022? Absolutely, considering the way it's been repeatedly smashing through it wouldn't be a surprise to see it hit 35 million by end of year. When you take the Steam Deck into account, there's going to be more people playing on the go too keeping the numbers up perhaps even more.</p>
+
+<p>It's safe to say that competition elsewhere certainly hasn't eaten much into Steam's user-base.</p><div id="5uCh3A5xPjZh0IR">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Mon, 24 Jan 2022 12:58:29 +0000</pubDate></item><item><title><![CDATA[Them's Fightin' Herds developer Mane6 acquired by Maximum Games]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/thems-fightin-herds-developer-mane6-acquired-by-maximum-games</link><guid>https://www.gamingonlinux.com/2022/01/thems-fightin-herds-developer-mane6-acquired-by-maximum-games</guid><category><![CDATA[Steam]]></category><category><![CDATA[Indie Game]]></category><category><![CDATA[Humble Store]]></category><category><![CDATA[Action]]></category><category><![CDATA[Fighting]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/572354084id20376gol.jpg"/><description><![CDATA[<p><p>The team at Mane6 will now be part of Maximum Games, as the official announcement from the Them's Fightin' Herds developer has confirmed. Maximum Games own Modus, a "full-service publishing label focused on bringing AAA publishing services to the best independent developers around the world".</p>
+
+<p>Sounds like it will be good news for players though, as it will give Mane6 more resources to grow their team and improve the game as a whole. There's some big plans to expand the game too including new characters, a finished story mode by the end of 2022, translations into other languages, level 3 super moves and <a href="https://store.steampowered.com/news/app/574980/view/3096788858039215834" target="_blank">plenty more</a>.</p>
+
+<a href="https://www.youtube.com/watch?v=LEBOSUOLTXM" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/LEBOSUOLTXM/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>From the press release: "Today we are celebrating our new partnership with Modus Games and look forward to continue our work on <em>Them’s Fightin’ Herds</em>. It’s been a true labor of love and we’ve now found a home with the talented team at Modus and Modus Studios," said Aaron Stavely, president of Mane6.</p>
+
+<p>Added Christina Seelye, CEO of Maximum Games and Modus Games, “Our entire team is incredibly excited to welcome Mane6 to the family and we can’t wait to show fans more of what we’ve been working on in the coming months.”</p>
+
+<p>You can buy it from <a href="https://www.humblebundle.com/store/thems-fightin-herds?partner=gamingonlinux" target="_blank">Humble Store</a> and <a href="https://store.steampowered.com/app/574980/Thems_Fightin_Herds/?curator_clanid=4218320" target="_blank">Steam</a>.</p><div id="atD4pLIVJp0GmZm">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Mon, 24 Jan 2022 12:20:30 +0000</pubDate></item><item><title><![CDATA[Lutris game manager adds support for Origin integration]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/lutris-game-manager-adds-support-for-origin-integration</link><guid>https://www.gamingonlinux.com/2022/01/lutris-game-manager-adds-support-for-origin-integration</guid><category><![CDATA[Open Source]]></category><category><![CDATA[Apps]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/122333311id20375gol.jpg"/><description><![CDATA[<p><p>The free and open source game manager Lutris continues expanding the stores it supports installing games from, with Origin now being added into the mix. Currently Lutris supports installing games (both native Linux builds and Windows games with Wine) for Humble Bundle, GOG, Steam, Epic Games and Emulators so adding Origin sounds like a good idea.</p>
+
+<p>No new release is actually out with it yet, as the code has just been added into the current development area on <a href="https://github.com/lutris/lutris" target="_blank">GitHub</a>. Lead dev Mathieu Comandon teased it on <a href="https://twitter.com/MComandon/status/1485207577193431040/photo/1" target="_blank">Twitter</a>: "Origin integration for Lutris is now available on the development branch!".</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/13215826451643022490gol1.jpg" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/13215826451643022490gol1.jpg" /></a></p>
+
+<p>See more about Lutris on the <a href="https://lutris.net/" target="_blank">official site</a>.</p><div id="wi69wFHX@OJiHx7">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Mon, 24 Jan 2022 11:11:51 +0000</pubDate></item><item><title><![CDATA[Valve sponsors more work to improve Linux graphics drivers]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/valve-sponsors-more-work-to-improve-linux-graphics-drivers</link><guid>https://www.gamingonlinux.com/2022/01/valve-sponsors-more-work-to-improve-linux-graphics-drivers</guid><category><![CDATA[Open Source]]></category><category><![CDATA[Drivers]]></category><category><![CDATA[Mesa]]></category><category><![CDATA[Valve]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/799261018id20374gol.jpg"/><description><![CDATA[<p><p>More improvements will be coming to Linux graphics drivers, as Valve have sponsored work towards continuous integration (CI) testing. Focused on AMD GPUs of course, since that is what the Steam Deck will be using so it's good news for both the Linux desktop and Valve's upcoming handheld.</p>
+
+<p>From the <a href="https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/14660" target="_blank">Draft Merge Request</a> created by Igalia developer Charlie Turner:</p>
+
+<blockquote>
+<p>This series proposes to add more dEQP bare-metal runners, sponsored by Valve. For now the runners are conditioned on a selection of users (similar to how freedreno's restricted traces work), since there are not enough machines to hit the runtime targets required for inclusion in the automatic pre-merge pipelines. There's nothing secret about the test loads, the restriction is purely practical for now and any interested user may request access to the runners.</p>
+
+<p>A follow-up series will add trace testing runners to the CI, using a similar approach to the above.</p>
+</blockquote>
+
+<p>dEQP (drawElements Quality Program) contains tests for multiple graphics APIs and should hopefully pick up issues <em>before</em> they end up going out to the public driver releases. All part of the work towards keeping Mesa Linux graphics drivers running smoothly. There is only so much developers can test directly on owned hardware, and CI testing is essential towards reducing the burden of that (and it's used across many computing fields).</p>
+
+<p>All good news, and should keep getting better.</p><div id="0jbqgoNchvUF8Kk">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Mon, 24 Jan 2022 10:46:57 +0000</pubDate></item><item><title><![CDATA[RetroArch 1.10.0 out with Vulkan fixes, Wayland improvements, GameMode support]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/retroarch-1-10-0-vulkan-fixes-wayland-improvements-gamemode-support</link><guid>https://www.gamingonlinux.com/2022/01/retroarch-1-10-0-vulkan-fixes-wayland-improvements-gamemode-support</guid><category><![CDATA[Open Source]]></category><category><![CDATA[Emulation]]></category><category><![CDATA[Apps]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/tagline_gallery/retroarch.jpg"/><description><![CDATA[<p><p>The RetroArch frontend application for emulators, game engines and media players has a new release up and there's plenty of great sounding improvements for Linux users. This should make it play even better with the Steam Deck!</p>
+
+<p>Netplay was a particular focus for <a href="https://www.libretro.com/index.php/retroarch-1-10-0-release/" target="_blank">RetroArch 1.10.0</a>. Their relay system to help players connect together is now online, along with some improvements like adding custom relay server support. uPnP support also had a "complete overhaul".</p>
+
+<p>Specifically for Linux there's a couple of Wayland improvements like ignoring mouse clicks on window decoration and scroll wheel support. There's now support for libdecor for client-side decorations, a fix for window closing, the window title correctly updates on Wayland and more minor fixes.</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/10039760021643019815gol1.png" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/10039760021643019815gol1.png" /></a></p>
+
+<p>A couple of Vulkan API improvements came in too like: double combined image sampler descriptor pool size, fixing segfaults with AMD GPUs using RADV; emulate mailbox only with Vsync enabled, otherwise have it disabled which is useful for VRR/G-Sync/FreeSync and also Vulkan max swapchain images option adjustments: removed value 1, since it won’t be used – Video reinit on change, so that there is no need to restart or toggle fullscreen.</p>
+
+<p>Plus, support for <a href="https://github.com/FeralInteractive/gamemode" target="_blank">GameMode</a> was added directly into the RetroArch UI.</p>
+
+<p>The other major addition is HDR support but that's not currently for Linux, since we don't have HDR yet.</p><div id="cG-G_oeDk@MUBC9">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Mon, 24 Jan 2022 10:25:04 +0000</pubDate></item><item><title><![CDATA[The 2012 strategy game Oil Rush from Unigine is now free]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/the-2012-strategy-game-oil-rush-from-unigine-is-now-free</link><guid>https://www.gamingonlinux.com/2022/01/the-2012-strategy-game-oil-rush-from-unigine-is-now-free</guid><category><![CDATA[Steam]]></category><category><![CDATA[Indie Game]]></category><category><![CDATA[Free Game]]></category><category><![CDATA[Strategy]]></category><category><![CDATA[RTS]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1048293956id20372gol.jpg"/><description><![CDATA[<p><p>Released all the way back in 2012, Oil Rush from Unigine is a naval strategy game and they've now decided to set it free by removing the price. Back at release, it was probably one of the most graphically demanding games available for Linux at the time, feels like it's part of our history at this point.</p>
+
+<p>Why is it free now? Tomorrow, January 25, it's the tenth anniversary of the release. Writing about it the developers said: "It's been 10 years since the release of UNIGINE's first game. We want to pay tribute to the thing that showed the world not only what our product is capable of, but also became an evidence of our team’s abilities. Oil Rush made us acknowledge our potential, opened a lot of doors for us and showed us opportunities that we’ve been taking ever since.</p>
+
+<p>A decade went by, we’re working on a new yet unannounced game, and it feels like there came the time to set Oil Rush free."</p>
+
+<a href="https://www.youtube.com/watch?v=jlkEqrvQ19c" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/jlkEqrvQ19c/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>The release and early builds were back in the day when Canonical were trying to build up the Ubuntu Software Center, with it having a pre-order available there. Not only that, it was also available on Desura, one of the original indie stores that had a native Linux client before being sold off multiple times and eventually shut down.</p>
+
+<p>About the game:</p>
+
+<blockquote>
+<p><strong>Oil Rush</strong> is a naval strategy game that takes place in a world where nuclear war has melted the ice caps, changing the face of the planet forever. Oil Rush offers unique gameplay, avoiding micromanagement of every single unit, while still providing full control over all important aspects of strategy and economy.<br />
+<br />
+Capture, upgrade, and defend floating production platforms and oil rigs. Discover new technologies and send squads of naval and air units into the battle!</p>
+
+<p>Key Features:</p>
+
+<ul>
+	<li>State-of-the-art visuals powered by UNIGINE engine</li>
+	<li>Dynamic and fun gameplay – furious enemies, massive battles, rampant attacks!</li>
+	<li>16 missions of single-player campaign, from the half-flooded jungles to northern seas</li>
+	<li>15 maps for multiplayer battles, each with multiple winning strategies</li>
+	<li>Multiplayer over LAN and Internet</li>
+</ul>
+</blockquote>
+
+<p>Find it <a href="https://store.steampowered.com/app/200390/Oil_Rush/" target="_blank">free on Steam</a>.</p><div id="4u8OLQza4@bjbPA">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Mon, 24 Jan 2022 10:07:16 +0000</pubDate></item><item><title><![CDATA[Quake II RTX 1.6.0 adds AMD FidelityFX Super Resolution (FSR)]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/quake-ii-rtx-160-adds-amd-fidelityfx-super-resolution-fsr</link><guid>https://www.gamingonlinux.com/2022/01/quake-ii-rtx-160-adds-amd-fidelityfx-super-resolution-fsr</guid><category><![CDATA[Steam]]></category><category><![CDATA[Open Source]]></category><category><![CDATA[FPS]]></category><category><![CDATA[Vulkan]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/778823317id20371gol.jpg"/><description><![CDATA[<p><p>Quake II RTX from Lightspeed Studios and NVIDIA just recently gained another big upgrade, this time with some AMD tech thanks to community-provided code. This is possible since it's <a href="https://github.com/NVIDIA/Q2RTX" target="_blank">open source</a>. Still quite surprising though but goes to show how people just want to make gaming better, regardless of hardware vendor politics.</p>
+
+<p>With the release of Quake II RTX 1.6.0 it didn't just bring AMD FidelityFX Super Resolution (FSR) but upgraded many parts of the game with new features too.</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/15860005661643015272gol1.jpg" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/15860005661643015272gol1.jpg" /></a></p>
+
+<p>Some of the other improvements include a removal of the NVIDIA Vulkan Ray Tracing extension, since it has been replaced by the vendor neutral extension now. Bigger additions came with support for nearest filtering on world textures, making any models translucent, polygonal light extraction from MD2/MD3/IQM models, smooth normals on the world mesh through a BSPX extension, support for unlit fog volumes and more new features.</p>
+
+<p>You can also now change VSync without reloading the renderer, they extended the supported light style range to 200% to fix over-bright lighting, improved CPU performance, added anisotropic texture sampling for objects seen in reflections and refractions using ray cones, improved the handling of transparent effects in the acceleration structures and the list goes on. That's not even getting to community contributions like the aforementioned AMD FSR, saving and loading games in expansion packs, better support for old mods and enabled x86 builds of the dedicated server, improved behavior of Dynamic Resolution Scaling on map changes and so on.</p>
+
+<p>All sounds pretty great. Quake II RTX is turning into quite the playground of graphics tech.</p>
+
+<p>You can play <a href="https://store.steampowered.com/app/1089130/Quake_II_RTX/?curator_clanid=4218320" target="_blank">Quake II RTX on Steam</a>. The first 3 levels are free but to play the rest with it you also need to buy the original Quake II.</p><div id="Kn3MNgGiM6_6Mlk">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Mon, 24 Jan 2022 09:12:43 +0000</pubDate></item><item><title><![CDATA[There's now an official Ubuntu MATE build for GPD Pocket 3]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/theres-now-an-official-ubuntu-mate-build-for-gpd-pocket-3</link><guid>https://www.gamingonlinux.com/2022/01/theres-now-an-official-ubuntu-mate-build-for-gpd-pocket-3</guid><category><![CDATA[Hardware]]></category><category><![CDATA[Ubuntu]]></category><category><![CDATA[New Release]]></category><category><![CDATA[Distro News]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/645802855id20370gol.jpg"/><description><![CDATA[<p><p>The GPD Pocket 3 is a fully-featured modular pocket PC and now you can happily run Linux on it with an <a href="https://ubuntu-mate.org/blog/ubuntu-mate-for-gpd-pocket3/" target="_blank">officially released</a> build of Ubuntu MATE. Something of a tradition for the MATE team who have produced builds for previous versions of the GPD devices.</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/12197930371643014756gol1.jpg" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/12197930371643014756gol1.jpg" /></a></p>
+
+<p>Here's some of the work that went into ensuring it works well:</p>
+
+<blockquote>
+<ul>
+	<li>Enable frame buffer and Xorg display rotation.</li>
+	<li><strong>Accelerometer support for automatic screen rotation.</strong>
+	<ul>
+		<li>Also automatically rotates touch screen and stylus (draw and erase)</li>
+	</ul>
+	</li>
+	<li>Enable <strong>fractional scaling by default</strong>
+	<ul>
+		<li>Results in an effective resolution of ~1280x800 to make the display panels easily readable.</li>
+		<li>Simple to toggle on/off via the <em>Display Scaler</em> app if you want to restore full resolution.</li>
+	</ul>
+	</li>
+	<li>Enable audio via the HDaudio legacy driver.</li>
+	<li>Suspend is implemented via <code class="inline-code">s2idle</code>
+	<ul>
+		<li>A temporary workaround until S3 sleep state is supported.</li>
+	</ul>
+	</li>
+	<li>Enable scroll wheel emulation while holding down the centre trackpad button.</li>
+	<li>Enable Tear-Free rendering by default.</li>
+	<li>Enable double size console (tty) font resolution.</li>
+</ul>
+</blockquote>
+
+<p>One current downside is that the fingerprint reader does not work.</p>
+
+<p>Download from the <a href="https://ubuntu-mate.org/download/" target="_blank">Ubuntu MATE website</a>. See more about the device on the <a href="https://gpd.hk/gpdpocket3" target="_blank">GPD website</a>.</p><div id="4l7yEhgh7b9Zmfz">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Mon, 24 Jan 2022 09:02:25 +0000</pubDate></item><item><title><![CDATA[Easy Anti-Cheat gets much simpler for Proton and Steam Deck]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/easy-anti-cheat-gets-much-simpler-for-proton-and-steam-deck</link><guid>https://www.gamingonlinux.com/2022/01/easy-anti-cheat-gets-much-simpler-for-proton-and-steam-deck</guid><category><![CDATA[Steam]]></category><category><![CDATA[Valve]]></category><category><![CDATA[Steam Play]]></category><category><![CDATA[Anti-Cheat]]></category><category><![CDATA[Meta]]></category><category><![CDATA[Steam Deck]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1499776154id20369gol.jpg"/><description><![CDATA[<p><p>Valve has <a href="https://steamcommunity.com/groups/steamworks/announcements/detail/3137321254689909034" target="_blank">announced</a> that developers who use Easy Anti-Cheat for their games now have a much easier setup for Proton and the upcoming Steam Deck.</p>
+
+<p>As we <a href="https://www.gamingonlinux.com/2022/01/easy-anti-cheat-not-as-simple-as-expected-for-proton-and-steam-deck/" target="_blank">wrote about recently</a>, it turned out that the announcement from Epic Games on supporting Easy Anti-Cheat for Proton was not as easy as expected. It required an SDK update for Epic Online Services, something developers noted was not exactly simple.</p>
+
+<p>Thankfully, Valve has been doing more with Epic behind the scenes and the process is now much better, which should hopefully mean more developers will be able to do it. Valve has now expanded the <a href="https://partner.steamgames.com/doc/steamdeck/proton" target="_blank">developer documentation</a> noting how Easy Anti-Cheat can be hooked up with Proton:</p>
+
+<blockquote>
+<ul>
+	<li>Proton supports Easy Anti-Cheat without requiring any recompilation, but it does require you to manually enable support for your build by following these steps in order:
+	<ol>
+		<li>Go into the EAC settings on the EAC partner site and enable Linux support from the dashboard.</li>
+		<li>Once that's done, download the EAC Linux library (<em>easyanticheat_x64.so</em>) for the SDK version integrated with your game, and add it to your depot next to the Windows library (<em>EasyAntiCheat_x64.dll</em>).</li>
+		<li>Lastly, on the Steamworks site, publish a new build of your game containing the new depot contents. (You don't have to make any changes to the game executable, just include the new files in the depot contents.)</li>
+	</ol>
+	</li>
+</ul>
+</blockquote>
+
+<p>Valve states that starting Monday - January 24, they will begin sending out Deck Verified data to developers that use anti-cheat to notify them of the results. Once they get it, developers will have a week to accept it (broken or otherwise) or do the necessary work to get it sorted.</p>
+
+<p>So, if all goes well, we might in the next few weeks see more anti-cheat enabled titles working on Linux with Proton. This would be great for the Steam Deck, since it ships with SteamOS 3 Linux.</p>
+
+<p>Just some of the titles that could benefit include:</p>
+
+<ul>
+	<li>Apex Legends</li>
+	<li>Back 4 Blood</li>
+	<li>Dead By Daylight</li>
+	<li>Fall Guys: Ultimate Knockout</li>
+	<li>Halo: The Master Chief Collection</li>
+	<li>New World</li>
+	<li>Paladins</li>
+	<li>Rust</li>
+	<li>Warhammer: Vermintide 2</li>
+</ul><div id="2GWedALoPY_yS8q">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Sat, 22 Jan 2022 09:07:03 +0000</pubDate></item><item><title><![CDATA[Framework put up the source code for their Embedded Controller firmware]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/framework-put-up-the-source-code-for-their-embedded-controller-firmware</link><guid>https://www.gamingonlinux.com/2022/01/framework-put-up-the-source-code-for-their-embedded-controller-firmware</guid><category><![CDATA[Open Source]]></category><category><![CDATA[Hardware]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/526114387id20368gol.jpg"/><description><![CDATA[<p><p>Continuing to put their money where their mouth is, the team at Framework are keeping things open and they've just announced the source code release for their Embedded Controller firmware.</p>
+
+<p>What they're using is actually based on Google's chromium-ec project, which is the EC firmware used in Chromebooks. They've put the code up on <a href="https://github.com/FrameworkComputer/EmbeddedController" target="_blank">GitHub</a> under the BSD license. They didn't have to do this but it's great to see and keeps up with their commitment to allow people to do whatever they want with the Framework Laptop, which is one of the most exciting laptops we've seen for some time now.</p>
+
+<p>The Embedded Controller is what talks with low-level stuff like power sequencing, keyboard control, thermal control, battery charging and so on.</p>
+
+<p>Missed the news on Framework? It's a laptop that will come in two editions, and they fully support Linux with it too. The DIY edition comes with no operating system, and you get to build it yourself. It's really cool. It's modular, upgradable and the expansion card system looks great giving you tons of options for connectivity.</p>
+
+<p style="text-align:center"><img src="https://uploads.golmedia.net/uploads/articles/article_media/19298373961642789026gol1.jpg" /></p>
+
+<p>You will also find that their team has put up a few official Linux guides too like for <a href="https://guides.frame.work/Guide/Fedora+35+Installation+on+the+Framework+Laptop/108?lang=en" target="_blank">Fedora 35</a>, <a href="https://guides.frame.work/Guide/Ubuntu+21.10+Installation+on+the+Framework+Laptop/109?lang=en" target="_blank">Ubuntu 21.10</a>, and <a href="https://guides.frame.work/Guide/Manjaro+21.2.1+Installation+on+the+Framework+Laptop/111?lang=en" target="_blank">Manjaro 21.2.1</a> and they said more will be added over time. For now they're suggesting Fedora 35 for the best out of the box experience.</p>
+
+<p>They're currently accepting orders and pre-orders for multiple countries. The Framework Laptop starts at £999 but the DIY Edition is configurable from £749.</p>
+
+<p>See more about Framework on the <a href="https://frame.work" target="_blank">official site</a>.</p><div id="DpQXQaAQoC4p4OA">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Fri, 21 Jan 2022 18:21:39 +0000</pubDate></item><item><title><![CDATA[AMD Ryzen DeskMini UM700 announced with Manjaro Linux]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/amd-ryzen-deskmini-um700-announced-with-manjaro-linux</link><guid>https://www.gamingonlinux.com/2022/01/amd-ryzen-deskmini-um700-announced-with-manjaro-linux</guid><category><![CDATA[Hardware]]></category><category><![CDATA[Manjaro]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/234664244id20367gol.jpg"/><description><![CDATA[<p><p>The Manjaro Linux folks have teamed up with Minisforum to bring a very small but quite mighty system with the DeskMini UM700 × Manjaro Linux. Exciting? Well, it's basically rebrand of the existing EliteMini UM700 only it has Manjaro Linux instead of Windows 10 - and the first 1,000 orders get a free copy of CrossOver Linux.</p>
+
+<p>Interestingly enough, this is pretty much the same box that <a href="https://www.gamingonlinux.com/2021/11/valve-adds-documentation-for-steam-deck-development-suggests-manjaro-linux-for-now/" target="_blank">Valve showed a pictured of</a> them using in their developer documentation when talking about sorting a system for developing for Steam Deck without a Dev-Kit.</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/2301343031642783933gol1.jpg" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/2301343031642783933gol1.jpg" /></a></p>
+
+<p>For a currently discounted price of $499, which they show will be $599 after, you get this:</p>
+
+<table border="1" cellpadding="1" cellspacing="1" class="table-stripes-tbody">
+	<tbody>
+		<tr>
+			<td>Processor</td>
+			<td>AMD Ryzen™ 7 3750H , 4 Cores/8 Threads<br />
+			(Total L2 Cache 2MB , Total L3 Cache 4MB , Base Clock 2.3 GHz , up to 4.0 GHz)</td>
+		</tr>
+		<tr>
+			<td>GPU</td>
+			<td>Radeon™ RX Vega 10 Graphics (Graphics Frequency 1400 MHz)</td>
+		</tr>
+		<tr>
+			<td>Memory</td>
+			<td>2×DDR4 2400MHz 8 Dual channel (SODIMM Slots×2)<br />
+			Supports a maximum of 64GB(32GB x 2) of DDR4</td>
+		</tr>
+		<tr>
+			<td>Storage</td>
+			<td>
+			<p>M.2 2280 256GB/512GB PCle SSD</p>
+
+			<p>Up to 2TB M.2 2280 NVMe SSD</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Storage Expansion</p>
+			</td>
+			<td>1×2.5 inch SATA HDD Slot (SATA 3.0 6.0Gb/s), maximum thickness 7mm</td>
+		</tr>
+		<tr>
+			<td>Wireless</td>
+			<td>M.2 2230 WIFI Support (Intel® BlueTooth pre-install)</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Video Output</p>
+			</td>
+			<td>
+			<p>HDMI 2.0 (4K@60Hz)</p>
+
+			<p>DisplayPort (4K@60Hz)</p>
+
+			<p>USB-C Port (4K@60Hz)</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Audio Output</td>
+			<td>HDMI 2.0, DisplayPort, 3.5mm Audio Jack</td>
+		</tr>
+		<tr>
+			<td>OS</td>
+			<td>Manjaro OS Plasma Gamer Edition</td>
+		</tr>
+		<tr>
+			<td>Ports</td>
+			<td>
+			<p>1 * RJ45 2.5 Gigabit Ethernet Port</p>
+
+			<p>1 * USB3.0 Port×1(Gen1 , 2.0A Max output , shutdown charging , Yellow)</p>
+
+			<p>3 * SB3.1 Port(Gen2 , Blue)</p>
+
+			<p>1 * USB-C Port(Gen2)</p>
+
+			<p>1 * HDMI 2.0</p>
+
+			<p>1 * Display Port</p>
+
+			<p>1 * Audio Jack</p>
+
+			<p>1 * Clear CMOS</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>What's the price like though? Well, for the base model that gives 8GB RAM and a 256GB SSD you're looking at a special launch price of $499. It shows the normal price would be $599, which is actually more expensive than the Windows version that comes with 16GB RAM ($569).</p>
+
+<p>The version of CrossOver included is the "Linux One" package. Giving you a full license to the <em>current</em> version of Crossover Linux with <em>no</em> upgrades or help desk support. It's no longer sold by CrossOver directly, only for promotions now like this.</p>
+
+<p>Does sound like a nice little machine overall. However, something else that's also strange is their branding. DeskMini is actually an ASRock thing, so Minisforum are being pretty cheeky here.</p>
+
+<p>You can see it on the <a href="https://store.minisforum.com/products/deskmini-um700-manjaro-linux?variant=42316758778101" target="_blank">official site</a>.</p><div id="H@GYilnlTam7sdS">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Fri, 21 Jan 2022 16:56:48 +0000</pubDate></item><item><title><![CDATA[Flathub to verify first-party apps and allow developers to collect monies]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/flathub-to-verify-first-party-apps-and-allow-developers-to-collect-monies</link><guid>https://www.gamingonlinux.com/2022/01/flathub-to-verify-first-party-apps-and-allow-developers-to-collect-monies</guid><category><![CDATA[Apps]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/295904425id20366gol.jpg"/><description><![CDATA[<p><p><a href="https://flathub.org" target="_blank">Flathub</a> and Flatpak packages are the future of Linux apps, according to more people, and GNOME are continuing to invest in it. They have some big plans to improve it too.</p>
+
+<p>Writing in a <a href="https://foundation.gnome.org/2022/01/21/further-investments-in-desktop-linux/" target="_blank">new blog post</a> on the GNOME Foundation website, they went over a number of things and not just Flathub related but that's what we're going to focus on for this article. The plans actually sounds pretty good!</p>
+
+<p>Firstly, Flathub is going to gain a way to process and verify apps from first-party teams. As in, developers who directly publish their app and manage the Flatpak package process for Flathub. A way to actually properly distinguish official apps from community builds will be quite important for so many reasons (security, privacy and so on). Not only that but GNOME want to give developers a way to collect donations and subscriptions too, which is also important to help make it more sustainable. Sounds like it's possible a way will be added for developers to share some of the revenue with Flathub too, ensuring it too is sustainable.</p>
+
+<p>To improve the experience further another part of the plan is to support multiple repositories, to enable a split between these first-party apps and community contributions, and have one where only free and open source apps live. That way, users get more of a choice on what they see and it just gives a little more control over all. Part of the hope is that they can get GNOME Software and KDE Discover to support all this, and note it all like verify apps and such. Think of it like see a nice big blue tick in whatever software store you use to see clearly it's official.</p>
+
+<p>You can see the plans in a bit more detail on their original <a href="https://discourse.flathub.org/t/seeking-contractors-for-work-on-flathub-project/1889" target="_blank">Discourse post</a>.</p>
+
+<p>Also be sure to check out a pretty good video overview on Flatpak from Nick at The Linux Experiment:</p>
+
+<div class="youtube-embed-wrapper" data-video-url="https://www.youtube-nocookie.com/embed/zs9QpPKDw74?rel=0" data-video-urlpreview="https://www.gamingonlinux.com/cache/youtube_thumbs/6c456a1958620c3fb37e5679d2bc935c.jpg" style="position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden"><iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube-nocookie.com/embed/zs9QpPKDw74?rel=0" style="position:absolute;top:0;left:0;width:100%;height:100%" width="640"><br />
+</iframe></div><div id="JagO-XPqdw4t4cO">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Fri, 21 Jan 2022 16:36:13 +0000</pubDate></item><item><title><![CDATA[HITMAN 3 arrives on Steam and works flawlessly on Linux with Proton]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/hitman-3-arrives-on-steam-and-works-flawlessly-on-linux-with-proton</link><guid>https://www.gamingonlinux.com/2022/01/hitman-3-arrives-on-steam-and-works-flawlessly-on-linux-with-proton</guid><category><![CDATA[Steam]]></category><category><![CDATA[Humble Store]]></category><category><![CDATA[Action]]></category><category><![CDATA[Stealth]]></category><category><![CDATA[Steam Play]]></category><category><![CDATA[New Release]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1592377915id20365gol.jpg"/><description><![CDATA[<p><p>Good news for the Steam Deck. IO Interactive have finally put HITMAN 3 on Steam, after the Epic exclusive period has finished and it works out of the box on Linux with <a href="http://steamproton.com" target="_blank">Steam Play Proton</a>. Note: personal purchase.</p>
+
+<p>Concluding the Agent 47 saga, the Steam release of course had its own drama to deal with. While it has been out for a year already on the Epic Store (which doesn't support Linux at all), it arrived on Steam at full price which has rubbed a lot of people the wrong way. Add to that the thoroughly confusing and <a href="https://twitter.com/gamingonlinux/status/1484239055080538123" target="_blank">long list</a> of packages for HITMAN 3, plus Humble Store being required to separate between Epic / Steam (with the Epic version at 50% off but Steam is not) - the result added together was not a good one for IO.</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/14629558851642769154gol1.jpg" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/14629558851642769154gol1.jpg" /></a></p>
+
+<p>They've made the same mistake as previous entries with overwhelming choice. Even I was confused by it. They don't even properly explain anywhere on the Steam store, that if you own either (or both) HITMAN 1 / HITMAN 2 on Steam, you don't actually need the DLC for their missions as you will get them automatically when you first properly load it up (as I confirmed myself). You only find that out if you go to the Steam forum.</p>
+
+<p><em>If you don't want or don't care about the previous two games, there is a "story so far" cinematic to bring you up to speed.</em></p>
+
+<p>For Linux fans the good news is that HITMAN 3 runs out of the box on Linux tested with Proton Experimental. Videos and all, everything just works. So, it may be late to Steam but it now makes it a click away to game on Linux and so for the Steam Deck too - which is fantastic news.</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/9345538101642778972gol1.jpg" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/9345538101642778972gol1.jpg" /></a></p>
+
+<p>Considering the performance on my system, it should have no problem performing well on the Steam Deck. It's <em>incredibly</em> smooth, so it seems on the technical side IO actually did a genuinely good job at optimizing the game to begin with. I've not encountered any major stuttering, which I did see when testing HITMAN 2 with Proton originally. It also goes to show how far Proton has come in a couple years to be this good now.</p>
+
+<p>If you've not played the series before it's actually thoroughly entertaining. Every level is a big sandbox for you to deal with this mission how you see fit. HITMAN is a game about stealth though, so going in hot with a big weapon is not something you're going to be doing often (or at all). Gain intel, listen in on conversations and gradually make your way towards targets to eventually take them down. Some missions can take hours to do depending on how elaborately you wish to take people down.</p>
+
+<p>Something to note is that HITMAN 3, like the others before it, does need you to be online. There is a single-player offline mode but it's very limited.</p>
+
+<p>If you're a Humble Choice subscriber, you can at least get 20% off on the <a href="https://www.humblebundle.com/store/hitman-3-steam?partner=gamingonlinux&charity=12277" target="_blank">Humble Store</a>. Otherwise it's full price on <a href="https://store.steampowered.com/app/1659040/HITMAN_3/" target="_blank">Steam</a> but there is a demo if you wish to give it a test.</p><div id="iP_dKlYK@47zpRg">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Fri, 21 Jan 2022 15:47:00 +0000</pubDate></item><item><title><![CDATA[Game devs don't seem convinced on the Steam Deck from the GDC 2022 survey]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/game-devs-dont-seem-convinced-on-the-steam-deck-from-the-gdc-2022-survey</link><guid>https://www.gamingonlinux.com/2022/01/game-devs-dont-seem-convinced-on-the-steam-deck-from-the-gdc-2022-survey</guid><category><![CDATA[Editorial]]></category><category><![CDATA[Meta]]></category><category><![CDATA[Steam Deck]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/666720428id20364gol.jpg"/><description><![CDATA[<p><p>The annual game developer survey from GDC is <a href="https://reg.gdconf.com/state-of-game-industry-2022" target="_blank">out now for 2022</a> and it has some interesting insights as usual. That includes thoughts on the upcoming Steam Deck, with it clearly not selling everyone.</p>
+
+<p>Having a little browse through it today and here's a few things to stuck out to me. For starters, of the ~2,700 developers surveyed about 7% said they are currently developing for Linux. Interestingly, 8% said their <em>next</em> project would be developed for Linux. When it comes to what platform developers are most interested in, Linux sat at 7%. As expected all three of those saw "PC" as the top platform, which by that they of course mean specifically Windows.</p>
+
+<p>Stadia, Google's once promising cloud gaming solution doesn't seem to be really getting any love with it seeing 3-5% in those same questions. Streaming just doesn't seem all that popular with developers, with even Xbox Project xCloud (now just called Xbox Cloud Gaming) also seeing pretty low percentage interest from developers.</p>
+
+<p>Browser-based gaming is here to stay though, as according to the survey it seems 9-11% of developers are currently doing it or planning to do it.</p>
+
+<p>What about the Steam Deck though? The question posed was "Do you think Valve Software’s Steam Deck will be a viable game platform in the long term?" and only 36% said yes with 17% saying no and the rest unsure. Some of the developer comments were interesting on the Steam Deck ranging from excitement about "a product gamers have wanted for a long time" to saying they "don’t think it will deliver anything revolutionary that isn’t currently being delivered by the Switch".</p>
+
+<p>The Steam Deck is interesting, as any developer / publisher we've seen actually receive a devkit unit has been practically universally praising the device. Seeing is truly believing then.</p>
+
+<p>How about VR? Well, the majority (40%) are currently <em>developing</em> for Oculus devices. Interest seems reasonable for the Valve Index and HTC Vive, which support Linux, as 20% said they were currently developing for those. The VR market does <em>not</em> sound healthy from the responses though, with an increasing amount of developers who previously worked on VR now <em>not</em> working on <em>any</em> games.</p>
+
+<p>A divisive one is NFTs and the (good) news there is that 70% of developers said they were not interested, with only 21% being "somewhat interested" and 7% being "very interested" and 1% already using them. Some of the responses there made me laugh ranging from it's "the wave of the future" to the blunt "How this hasn’t been identified as a pyramid scheme is beyond me".</p><div id="jEl_VqEQeVkzdeb">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Fri, 21 Jan 2022 11:02:33 +0000</pubDate></item><item><title><![CDATA[Kitsune Tails gets an all-star voice cast]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/kitsune-tails-gets-an-all-star-voice-cast</link><guid>https://www.gamingonlinux.com/2022/01/kitsune-tails-gets-an-all-star-voice-cast</guid><category><![CDATA[Steam]]></category><category><![CDATA[Indie Game]]></category><category><![CDATA[Upcoming]]></category><category><![CDATA[Platformer]]></category><category><![CDATA[Itch.io]]></category><category><![CDATA[LGBTQ+]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/30962277id20363gol.jpg"/><description><![CDATA[<p><p>Kitsune Tails is an upcoming LGBTQ-focused retro story platformer from Kitsune Games and MidBoss, LLC. that's due out later this year. Looks great for platformer fans and it's going to have quite the voice cast.</p>
+
+<p>There's what seems like a nice big mix of people getting involved with Kira Buckland (the voice of iconic NiEr: Automata protagonist 2B, Street Fighter V’s Falke, and JoJo's Bizarre Adventure: Stone Ocean’s Jolynne Cujoh) plus Angela Tran (Genshin Impact, Lake, Summer in Mara), Katlyn Dannes (The Homework's Revenge: Esther in Wonderland and Square Roots), Brent Mukai (Ratchet and Clank: Rift Apart, Pokemon Masters) and more.</p>
+
+<p>Check out the new trailer:</p>
+
+<a href="https://www.youtube.com/watch?v=wqhz5PHtwGg" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/wqhz5PHtwGg/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>From the PR: "Auditioning so many talented voice actors to help bring the world of Kitsune Tails to life was rewarding and a challenge to determine who was the right fit," said Emma 'Eniko' Maassen, Kitsune Games founder. "The fact we got the talent behind 2B to voice Yuzu is still surreal to me, and we hope our fans enjoy this taste of what’s to come!"</p>
+
+<p>The game will serve as what they say is a spiritual successor to Super Bernie World, which gathered over 300,000 downloads across itch.io and Steam. A crowdfunding campaign will launch in the first half of this year.</p>
+
+<p>Game Features:</p>
+
+<blockquote>
+<ul>
+	<li>Classic platforming action set in a land inspired by Japanese mythology</li>
+	<li>Explore five elemental worlds and various haunted houses</li>
+	<li>Learn new elemental powers and use them to find secrets and optional story content</li>
+	<li>Unlock a bonus ending by fully exploring the relationships between characters</li>
+	<li>Use cute outfits to power up or stomp around by stealing a giant boot from enemies</li>
+	<li>Defeat your haughty former mentor and her gang of foxy minions</li>
+	<li>Stomp on pangos to make them curl into a ball, pick them up, and kick them around</li>
+	<li>Carry lights through haunted houses to reveal secret doors and ward off ghosts</li>
+</ul>
+</blockquote>
+
+<p>You can follow it on <a href="https://store.steampowered.com/app/1325260/Kitsune_Tails/" target="_blank">Steam</a>. At release it will also be on <a href="https://itch.io/" target="_blank">itch.io</a>.</p><div id="MzLi4r19C944IQr">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Thu, 20 Jan 2022 16:21:16 +0000</pubDate></item><item><title><![CDATA[Steering Wheel manager Oversteer expands supported wheels in 0.7.0]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/steering-wheel-manager-oversteer-expands-supported-wheels-in-070</link><guid>https://www.gamingonlinux.com/2022/01/steering-wheel-manager-oversteer-expands-supported-wheels-in-070</guid><category><![CDATA[Open Source]]></category><category><![CDATA[Apps]]></category><category><![CDATA[Meta]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1226607091id20362gol.jpg"/><description><![CDATA[<p><p><a href="https://github.com/berarma/oversteer" target="_blank">Oversteer</a> continues to be the best way to setup and configure Steering Wheels on Linux. Oversteer 0.7.0 is out now and expands support for more wheels. Since, like a lot of other special hardware, the original manufacturer doesn't support Linux, community efforts like this are essential.</p>
+
+<p>Here's what's new:</p>
+
+<div class="markdown-body my-3" data-pjax="true" data-test-selector="body-content" data-view-component="true">
+<blockquote>
+<ul>
+	<li>Added Logitech G923, Thrustmaster T150 and T500RS to the list of supported wheels.</li>
+	<li>Added German, Finnish and Turkish translations.</li>
+	<li>Install udev rules by default in more sensible locations.</li>
+	<li>Bug fixes.</li>
+</ul>
+</blockquote>
+
+<p>I can easily attest to how great it is and how it really does make it simple. It continues working great with my own Logitech G29 to help adjust various settings. Depending on what hardware you have, Oversteer supports a lot. Features include emulation mode support, rotation range, force feedback gain, device profiles, the ability to combine accelerator/brakes pedals for games that use just one axis. If you combine it with the <a href="https://github.com/berarma/new-lg4ff" target="_blank">new-lg4ff driver</a>, you get even more features.</p>
+</div>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/279420721642683544gol1.png" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/279420721642683544gol1.png" /></a></p><div id="gbebk5v5tC8JV4R">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Thu, 20 Jan 2022 13:03:40 +0000</pubDate></item><item><title><![CDATA[Stellaris 3.3 Unity gets a Beta available on Steam]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/stellaris-33-unity-gets-a-beta-available-on-steam</link><guid>https://www.gamingonlinux.com/2022/01/stellaris-33-unity-gets-a-beta-available-on-steam</guid><category><![CDATA[Steam]]></category><category><![CDATA[Strategy]]></category><category><![CDATA[Beta]]></category><category><![CDATA[Paradox Interactive]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/289156638id20361gol.jpg"/><description><![CDATA[<p><p>Paradox Interactive are gearing up ready for the next major update to their space strategy game Stellaris. A new opt-in Beta is available for the 3.3 Unity update.</p>
+
+<p>There's still plenty of work to be done to finish the update with it still in active development, however this is your time to get in early and see what's new and report any issues. Currently some new localization strings are only in English and there's some placeholders but there's a lot of new features and reworks.</p>
+
+<p>Here's a breakdown of the major changes:</p>
+
+<ul>
+	<li>All means of increasing Administrative Capacity have been removed. While there are ways to reduce the Empire Sprawl generated by various sources, empires will no longer be able to completely mitigate sprawl penalties. Penalties and sprawl generation values have been significantly modified.</li>
+	<li>The Edicts Cap system has been removed. Toggled Edicts will have monthly Unity Upkeep which is modified by Empire Sprawl. Each empire has an Edicts Fund which subsidizes Edict Upkeep, reducing the amount you have to pay each month to maintain them.</li>
+	<li>Unity Ambitions and Campaigns now function like Toggled Edicts and last until cancelled with upkeep rather than costs. Known Issue: Sacrifice Edicts do not show their up-front costs. Or charge them, other than the actual sacrifices, so these two cancel each other out.</li>
+	<li>Several other systems that used to cost Influence are now paid in Unity.
+	<ul>
+		<li>Reforming government now costs Unity. The cost is based on Empire Size.</li>
+		<li>Resettling pops that previously cost Influence now costs Unity. Abandoning colonies still costs Influence.</li>
+		<li>Suppressing or Promoting factions no longer costs Influence. Known Issue: Unity costs for Faction Manipulation are not yet functioning.</li>
+		<li>Most Megastructures now cost Unity rather than Influence, with the exception of any related to travel (such as Gateways) or that provide living space (such as Habitats and Ring Worlds).</li>
+	</ul>
+	</li>
+	<li>Since Factions are no longer producing Influence, a small amount of Influence is now generated by your fleet, based on Power Projection - a comparison of your fleet size and Empire Sprawl.</li>
+	<li>Leaders now cost Unity to hire rather than Energy, and have Unity upkeep.</li>
+	<li>Planetary Ascension Tiers have been added to the game. After acquiring three Ascension Perks, Unity can be spent to improve the effects generated by a planet’s Designation by 25%. Costs increase with Empire Sprawl and the number of times you have performed this action. As you acquire more Ascension Perks, the maximum Ascension Tier increases, with an extra maximum bonus once all Ascension Perks have been unlocked.</li>
+</ul>
+
+<p>To access it you need to opt into the "stellaris_test" branch, found right at the bottom of the Betas list when you go to the Properties of Stellaris on Steam.</p>
+
+<p>Also, starting Monday - January 31 they're doing another Dev Clash series:</p>
+
+<a href="https://www.youtube.com/watch?v=_rhxm_3N03Q" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/_rhxm_3N03Q/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>You can buy Stellaris from <a href="https://af.gog.com/game/stellaris?as=1636858786" target="_blank">GOG</a>, <a href="https://www.humblebundle.com/store/stellaris?partner=gamingonlinux&charity=12277" target="_blank">Humble Store</a> and <a href="https://store.steampowered.com/app/281990/Stellaris/?curator_clanid=4218320" target="_blank">Steam</a>.</p><div id="EYma_C2oRFh1NVi">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Thu, 20 Jan 2022 12:52:20 +0000</pubDate></item><item><title><![CDATA[Get a fresh up close and personal look at the Steam Deck with Hellish Quart]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/get-a-fresh-up-close-and-personal-look-at-the-steam-deck-with-hellish-quart</link><guid>https://www.gamingonlinux.com/2022/01/get-a-fresh-up-close-and-personal-look-at-the-steam-deck-with-hellish-quart</guid><category><![CDATA[Steam]]></category><category><![CDATA[Indie Game]]></category><category><![CDATA[Upcoming]]></category><category><![CDATA[Hardware]]></category><category><![CDATA[Video]]></category><category><![CDATA[Steam Play]]></category><category><![CDATA[Steam Deck]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1847707358id20360gol.jpg"/><description><![CDATA[<p><p>Want a really close view on the Steam Deck in action? Hellish Quart developer Kubold recently had a Steam Deck devkit delivered so they took a video.</p>
+
+<p>Can't say I had heard of <a href="https://store.steampowered.com/app/1000360/Hellish_Quart/" target="_blank">Hellish Quart</a> until seeing the video either. It's a physics based, realistic, 3D sword duelling game set in the 17th century and you know what? It looks like a huge amount of fun actually! Not only that, it appears to now work just fine with <a href="http://steamproton.com" target="_blank">Steam Play Proton</a>. The developer mentioned they will be updating the game to have controller glyphs for the moves list, which it will need to get Verified properly and it's something that should benefit all gamepad players.</p>
+
+<p>The video is about 3 minutes long, and it's easily one of the most chilled-out personal looks we've seen yet. Check it out in our embed below:</p>
+
+<a href="https://www.youtube.com/watch?v=52v_Rzx-00k" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/52v_Rzx-00k/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>What do you think after seeing this? It's getting increasingly difficult to hold back the excitement.</p><div id="VwWnRXJY1tk3Aif">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Thu, 20 Jan 2022 11:42:27 +0000</pubDate></item><item><title><![CDATA[Yu-Gi-Oh! Master Duel is out on Steam and runs well on Linux]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/yu-gi-oh-master-duel-is-out-on-steam-and-runs-well-on-linux</link><guid>https://www.gamingonlinux.com/2022/01/yu-gi-oh-master-duel-is-out-on-steam-and-runs-well-on-linux</guid><category><![CDATA[Steam]]></category><category><![CDATA[Free Game]]></category><category><![CDATA[Card Game]]></category><category><![CDATA[Steam Play]]></category><category><![CDATA[Deck-builder]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/508629304id20359gol.jpg"/><description><![CDATA[<p><p>Want to get into a new card game? Yu-Gi-Oh! Master Duel just released on Steam from Konami Digital Entertainment and the great news is that it works out of the box with <a href="http://steamproton.com" target="_blank">Steam Play Proton</a> Experimental on Linux.</p>
+
+<p>A good thing too of course, as the more new releases that work right away the better the chances of more people using Linux - and it's always good news for the upcoming Steam Deck too. Yu-Gi-Oh! Master Duel has already proven to be massively popular, with it being #4 on Steam's top games by player count (a peak count of 164,465 playing!). Konami claim this is the "definitive edition of the competitive card game that has been evolving for over 20 years".</p>
+
+<a href="https://www.youtube.com/watch?v=7DbBwNpOkEI" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/7DbBwNpOkEI/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>Keep in mind this game is free to play, supported by in-game purchases for Gems which you then use to buy packs of cards or their own version of a Battle Pass. There are a few ways to earn as you play but these types of games are often skewed a bit more towards pay 2 win if people with more money buy all the cards constantly to build up a powerful deck. However, it is a game of strategy. Powerful cards don't necessarily mean someone will be able to win if their opponent is clever in their tactics. Just something to keep in mind.</p>
+
+<p>Performance of playing it on Linux is great, absolutely no issues there. As expected though, as it's pretty simplistic in terms of what it's actually doing. Playing through the tutorial, plus some Solo and online duels and it's all perfectly smooth sailing.</p>
+
+<p>You can play free on <a href="https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/" target="_blank">Steam</a>.</p><div id="XyTtLvA6EuyV60W">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Thu, 20 Jan 2022 11:33:14 +0000</pubDate></item><item><title><![CDATA[A whole bunch of games just got Steam Deck Verified]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/a-whole-bunch-of-games-just-got-steam-deck-verified</link><guid>https://www.gamingonlinux.com/2022/01/a-whole-bunch-of-games-just-got-steam-deck-verified</guid><category><![CDATA[Steam]]></category><category><![CDATA[Hardware]]></category><category><![CDATA[Valve]]></category><category><![CDATA[Steam Play]]></category><category><![CDATA[Listicle]]></category><category><![CDATA[Steam Deck]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1342788865id20358gol.png"/><description><![CDATA[<p><p>Seems Valve has now properly started verifying games ahead of the Steam Deck launch, with a bunch of titles now verified ready to play so let's take a look. The list can be seen on <a href="https://steamdb.info/instantsearch/?refinementList%5Boslist%5D%5B0%5D=Steam%20Deck%20Verified" target="_blank">SteamDB</a>.</p>
+
+<p>The list is expanding, and we expect obviously a great many more to be noted as verified before the Steam Deck begins launching by the end of February.</p>
+
+<ol>
+	<li><a href="https://store.steampowered.com/app/447150/APE_OUT/" target="_blank">APE OUT</a></li>
+	<li><a href="https://store.steampowered.com/app/1549970/Aliens_Fireteam_Elite/" target="_blank">Aliens: Fireteam Elite</a></li>
+	<li><a href="https://store.steampowered.com/app/204360/Castle_Crashers/" target="_blank">Castle Crashers</a></li>
+	<li><a href="https://store.steampowered.com/app/504230/Celeste/" target="_blank">Celeste</a></li>
+	<li><a href="https://store.steampowered.com/app/1097130/Circuit_Superstars/" target="_blank">Circuit Superstars</a></li>
+	<li><a href="https://store.steampowered.com/app/268910/Cuphead/" target="_blank">Cuphead</a></li>
+	<li><a href="https://store.steampowered.com/app/335300/DARK_SOULS_II_Scholar_of_the_First_Sin/" target="_blank">DARK SOULS™ II: Scholar of the First Sin</a></li>
+	<li><a href="https://store.steampowered.com/app/374320/DARK_SOULS_III/" target="_blank">DARK SOULS™ III</a></li>
+	<li><a href="https://store.steampowered.com/app/894020/Deaths_Door/" target="_blank">Death's Door</a></li>
+	<li><a href="https://store.steampowered.com/app/1190460/DEATH_STRANDING/" target="_blank">Death Stranding</a></li>
+	<li><a href="https://store.steampowered.com/app/205100/Dishonored/" target="_blank">Dishonored</a></li>
+	<li><a href="https://store.steampowered.com/app/1173770/FINAL_FANTASY/" target="_blank">Final Fantasy</a></li>
+	<li><a href="https://store.steampowered.com/app/534550/Guacamelee_2/" target="_blank">Guacamelee! 2</a></li>
+	<li><a href="https://store.steampowered.com/app/1217060/Gunfire_Reborn/" target="_blank">Gunfire Reborn</a></li>
+	<li><a href="https://store.steampowered.com/app/1271700/HOT_WHEELS_UNLEASHED/" target="_blank">HOT WHEELS UNLEASHED™</a></li>
+	<li><a href="http://Hollow Knight" target="_blank">Hollow Knight</a></li>
+	<li><a href="https://store.steampowered.com/app/590380/Into_the_Breach/" target="_blank">Into the Breach</a></li>
+	<li><a href="https://store.steampowered.com/app/234140/Mad_Max/" target="_blank">Mad Max</a></li>
+	<li><a href="https://store.steampowered.com/app/473950/Manifold_Garden/" target="_blank">Manifold Garden</a></li>
+	<li><a href="https://store.steampowered.com/app/860950/Mark_of_the_Ninja_Remastered/" target="_blank">Mark of the Ninja: Remastered</a></li>
+	<li><a href="https://store.steampowered.com/app/881100/Noita/" target="_blank">Noita</a></li>
+	<li><a href="https://store.steampowered.com/app/620/Portal_2/" target="_blank">Portal 2</a></li>
+	<li><a href="https://store.steampowered.com/app/607080/Psychonauts_2/" target="_blank">Psychonauts 2</a></li>
+	<li><a href="https://store.steampowered.com/app/722560/RAD/" target="_blank">RAD</a></li>
+	<li><a href="https://store.steampowered.com/app/1203630/Record_of_Lodoss_WarDeedlit_in_Wonder_Labyrinth/" target="_blank">Record of Lodoss War-Deedlit in Wonder Labyrinth-</a></li>
+	<li><a href="https://store.steampowered.com/app/617290/Remnant_From_the_Ashes/" target="_blank">Remnant: From the Ashes</a></li>
+	<li><a href="https://store.steampowered.com/app/632360/Risk_of_Rain_2/" target="_blank">Risk of Rain 2</a></li>
+	<li><a href="https://store.steampowered.com/app/1253920/Rogue_Legacy_2/" target="_blank">Rogue Legacy 2</a></li>
+	<li><a href="https://store.steampowered.com/app/775500/SCARLET_NEXUS/" target="_blank">SCARLET NEXUS</a></li>
+	<li><a href="https://store.steampowered.com/app/757310/Sable/" target="_blank">Sable</a></li>
+	<li><a href="https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/" target="_blank">Sekiro™: Shadows Die Twice</a></li>
+	<li><a href="https://store.steampowered.com/app/988910/Super_Mega_Baseball_3/" target="_blank">Super Mega Baseball 3</a></li>
+	<li><a href="https://store.steampowered.com/app/1003590/Tetris_Effect_Connected/" target="_blank">Tetris® Effect: Connected</a></li>
+	<li><a href="https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/" target="_blank">The Binding of Isaac: Rebirth</a></li>
+	<li><a href="https://store.steampowered.com/app/764790/The_Messenger/" target="_blank">The Messenger</a></li>
+	<li><a href="https://store.steampowered.com/app/594570/Total_War_WARHAMMER_II/" target="_blank">Total War: WARHAMMER II</a></li>
+	<li><a href="https://store.steampowered.com/app/887450/Tunche/" target="_blank">Tunche</a></li>
+	<li><a href="https://store.steampowered.com/app/1390350/Webbed/" target="_blank">Webbed</a></li>
+</ol>
+
+<p>It's a mixture of native Linux games and Windows builds relying on <a href="http://steamproton.com" target="_blank">Steam Play Proton</a>. Not being on the list doesn't mean they won't run, as Valve does have very specific criteria that games need to hit to be officially verified. It might be a case of text being too small on the screen stopping them, which no doubt mods will come out to help with that on some games that no longer see developer support.</p>
+
+<p>There's a few games that are already placed into the "Playable" category like War Thunder which has too small text and the launcher being a nuisance, RimWorld needing a manual invoking of the on-screen keyboard for some text input, The Witcher 3: Wild Hunt having too small text and so on.</p>
+
+<p>Want to check out the newer Steam store Tablet Mode? It will actually show the Deck Verified symbols and on store pages there's a whole new Steam Deck compatibility section that you can bring up like so:</p>
+
+<p style="text-align:center"><a data-fancybox="images" href="https://uploads.golmedia.net/uploads/articles/article_media/16912117091642672577gol1.png" target="_blank"><img src="https://uploads.golmedia.net/uploads/articles/article_media/16912117091642672577gol1.png" /></a></p>
+
+<p>To do so it's easy enough in Firefox. Simply open a tab with the Steam store and hit CTRL+SHIFT+M. From there you need to add a new device by selecting the dropdown list that will usually say "Responsive" by default. From there hit "Edit list" and set a name of "Steam Deck" (or anything really), set user agent string to "Valve Steam Gamepad" and a resolution of "910 x 568". Then select it after saving, and refresh and you will get the Tablet Mode.</p>
+
+<p>In other news, Valve developer Pierre-Loup Griffais confirmed on <a href="https://twitter.com/Plagman2/status/1484035893958569984" target="_blank">Twitter</a> that shipping fees are included in Steam Deck purchases which will hopefully settle a few minds about it.</p><div id="0oJs6-7KPxhFb6j">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Thu, 20 Jan 2022 10:14:29 +0000</pubDate></item><item><title><![CDATA[Total War: WARHAMMER III gets a short hype-trailer for The Daemon Prince]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/total-war-warhammer-iii-gets-a-short-hype-trailer-for-the-daemon-prince</link><guid>https://www.gamingonlinux.com/2022/01/total-war-warhammer-iii-gets-a-short-hype-trailer-for-the-daemon-prince</guid><category><![CDATA[Steam]]></category><category><![CDATA[Upcoming]]></category><category><![CDATA[Strategy]]></category><category><![CDATA[Feral Interactive]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1588279025id20357gol.jpg"/><description><![CDATA[<p><p>Total War: WARHAMMER III is getting real close to the release now, and it's getting exciting for strategy fans to see the conclusion of this epic. Launching officially on February 17, it will be "available as close to launch day as possible on macOS and Linux".</p>
+
+<p>Seems Creative Assembly decided you need to get hyped and remember it's coming, as they've released a short new trailer to show off the rather boringly named (compared with other Warhammer naming that is) Daemon Prince. The trailer may be short but it is pretty great at making me want it now.</p>
+
+<a href="https://www.youtube.com/watch?v=Uebto73ZUFQ" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/Uebto73ZUFQ/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p><em>There's also been some hands-on initial previews from a few of "the bigger lot" like <a href="https://www.rockpapershotgun.com/total-war-warhammer-3-campaign-preview" target="_blank">RPS</a> and <a href="https://www.ign.com/articles/total-war-warhammer-3-final-preview-hands-on-pc?utm_source=facebook,twitter" target="_blank">IGN</a>. </em></p>
+
+<p>As a reminder: if you do pre-order (or buy in the first week after release) you will get access to an additional free Race Pack for Total War: WARHAMMER III with the Ogre Kingdoms.</p>
+
+<p>We have again today emailed the porting studio Feral Interactive, to see if they care to tell us if the Linux version will support cross-platform multiplayer. Historically, their ports have not, except for Total War: ROME REMASTERED which they worked on all three platforms for (Linux, macOS and Windows). Will update if they reply, as they did reply not last we asked in November.</p>
+
+<p>You can pre-order from <a href="https://www.humblebundle.com/store/total-war-warhammer-iii?partner=gamingonlinux&charity=12277" target="_blank">Humble Store</a> and <a href="https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/" target="_blank">Steam</a>.</p><div id="lIdy8GZ52jORKOt">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Wed, 19 Jan 2022 15:37:16 +0000</pubDate></item><item><title><![CDATA[Action-packed 'combat-puzzle' roguelite Red Tether is out now]]></title><dc:creator>Liam Dawe</dc:creator><link>https://www.gamingonlinux.com/2022/01/action-packed-combat-puzzle-roguelite-red-tether-is-out-now</link><guid>https://www.gamingonlinux.com/2022/01/action-packed-combat-puzzle-roguelite-red-tether-is-out-now</guid><category><![CDATA[Steam]]></category><category><![CDATA[Indie Game]]></category><category><![CDATA[Action]]></category><category><![CDATA[Itch.io]]></category><category><![CDATA[Rogue-lite]]></category><category><![CDATA[Shoot 'em up]]></category><category><![CDATA[New Release]]></category><media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/1882183099id20356gol.jpg"/><description><![CDATA[<p><p>It's actually called ---Red---Tether--> but that would look a bit odd in the headline. A new release from indie dev Sleeper Games, it's a thoroughly unique looking shoot 'em up with pretty fun looking gameplay.</p>
+
+<p>With the help of a tether harpoon, you will take down large space fleets using an indirect combat system. Instead of firing off your phasers, you'll be hoping your harpoon is well placed to help you tear ships apart and throw them around the screen. Or, simply smash your ship into another because why not? Sounds like a blast. Check out the trailer:</p>
+
+<a href="https://www.youtube.com/watch?v=-uMTRZNrWMk" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/-uMTRZNrWMk/0.jpg" alt="youtube video thumbnail"><br />Watch video on YouTube.com</a>
+
+<p>Features:</p>
+
+<blockquote>
+<ul>
+	<li>Experience fresh "combat-puzzle" gameplay that requires split-second tactical decisions amid fast paced action.</li>
+	<li>Learn to counter various fleet elements, including attack ships, support crafts and logistic units.</li>
+	<li>Fight through 50+ pre-made waves, or face randomly generated fleets in endless mode.</li>
+	<li>Clash with 16+ massive boss enemies and turn them into screen-filling explosions.</li>
+	<li>Dodge clearly telegraphed enemy attacks and potentially turn them against your opponents.</li>
+	<li>Avoid or exploit various hazards like fuel spills, electrified hulls or coolant clouds.</li>
+	<li>Unlock 6+ player ships that offer distinct playstyles, advantages and challenges.</li>
+	<li>Improve your craft with 70+ stackable ship and tether upgrades.</li>
+	<li>Discover 10+ star system zones and the new enemies they throw at you.</li>
+	<li>Piece together the games lore by finding black boxes among all the ship-debris.</li>
+	<li>Late game challenge modes.</li>
+	<li>Basic controller support and assist options.</li>
+</ul>
+</blockquote>
+
+<p>Available on <a href="https://sleeper-games.itch.io/red-tether" target="_blank">itch.io</a> and <a href="https://store.steampowered.com/app/1714080/RedTether/" target="_blank">Steam</a>.</p><div id="YL9TKBznD7OoY7e">Article from <a href="https://www.gamingonlinux.com/">GamingOnLinux.com</a> taken from the RSS feed.</div></p>]]></description><pubDate>Wed, 19 Jan 2022 14:26:44 +0000</pubDate></item></channel></rss>
