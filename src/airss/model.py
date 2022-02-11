@@ -52,13 +52,13 @@ class Source(Entity):
         update_frequency: hours between fetches
     """
 
+    url: AnyHttpUrl
     title: str
     state: SourceState = SourceState.AVAILABLE
-    description: str = ""
-    created_at: datetime
-    updated_at: datetime
+    description: Optional[str] = None
+    created_at: datetime = Field(default_factory=datetime.now)
+    updated_at: datetime = Field(default_factory=datetime.now)
     next_update_at: Optional[datetime] = None
     update_frequency: int = 24
     score: Optional[int] = Field(None, gt=0, le=5)
-    url: AnyHttpUrl
     tags: List[str] = Field(default_factory=list)

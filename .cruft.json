@@ -1,15 +1,15 @@
 {
   "template": "https://github.com/lyz-code/cookiecutter-python-project",
-  "commit": "26d95cab240d78b065cffd54036ab916aa70a034",
-  "checkout": null,
+  "commit": "98c82080ce18191cca9a38741e3dbff47bd915df",
+  "checkout": "98c8208",
   "context": {
     "cookiecutter": {
       "project_name": "Airss",
       "project_slug": "airss",
       "project_description": "Intelligent self-hosted content browser",
       "requirements": "",
-      "configure_command_line": "False",
-      "read_configuration_from_yaml": "False",
+      "configure_command_line": "True",
+      "read_configuration_from_yaml": "True",
       "github_user": "lyz-code",
       "github_token_pass_path": "internet/github.lyz-code.api_token",
       "pypi_token_pass_path": "internet/pypi.token",
