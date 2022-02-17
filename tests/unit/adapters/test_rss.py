@@ -1,7 +1,7 @@
 """Define the tests of the rss adapter."""
 
-import random
 from datetime import datetime
+from random import SystemRandom
 
 import pytest
 from pytest_httpserver import HTTPServer
@@ -15,8 +15,7 @@ from airss.model import Article, Source
 
 def faulty_server(request: Request) -> Response:
     """Define the response of a faulty server."""
-
-    if random.random() > 0.5:
+    if SystemRandom().random() > 0.5:
         return Response("Error", status=404)
 
     with open("tests/assets/blue-book-rss.xml", "r") as file_descriptor:
@@ -24,7 +23,10 @@ def faulty_server(request: Request) -> Response:
 
 
 @pytest.mark.freeze_time()
+@pytest.mark.usefixtures("_rss")
 class TestRSS:
+    """Test the implementation of the RSS extractor"""
+
     def test_get_rss(
         self,
         httpserver: HTTPServer,
@@ -35,12 +37,8 @@ class TestRSS:
         Then: The list of articles are returned
         """
         now = datetime.now()
-        with open("tests/assets/blue-book-rss.xml", "r") as file_descriptor:
-            httpserver.expect_request("/feed").respond_with_data(
-                file_descriptor.read(), content_type="application/xml"
-            )
 
-        source, articles = RSS().get(httpserver.url_for("/feed"))
+        source, articles = RSS().get(httpserver.url_for("/blue/feed"))  # act
 
         desired_source = Source(
             title="The Blue Book",
@@ -74,12 +72,7 @@ class TestRSS:
         When: fetched with the adapter
         Then: The articles have the tags populated
         """
-        with open("tests/assets/gaming_on_linux.xml", "r") as file_descriptor:
-            httpserver.expect_request("/feed").respond_with_data(
-                file_descriptor.read(), content_type="application/xml"
-            )
-
-        _, articles = RSS().get(httpserver.url_for("/feed"))
+        _, articles = RSS().get(httpserver.url_for("/gaming_on_linux/feed"))  # act
 
         assert articles[0].tags == ["Open Source", "Wine", "Apps", "Meta"]
 
@@ -92,10 +85,8 @@ class TestRSS:
         When: fetched with the adapter
         Then: an error is raised
         """
-        httpserver.expect_request("/feed").respond_with_data("error", status=404)
-
-        with pytest.raises(RetryError) as error:
-            RSS().get(httpserver.url_for("/feed"))
+        with pytest.raises(RetryError):
+            RSS().get(httpserver.url_for("/404"))
 
     def test_get_retries_if_response_not_200(
         self,
@@ -108,6 +99,6 @@ class TestRSS:
         """
         httpserver.expect_request("/feed").respond_with_handler(faulty_server)
 
-        source, _ = RSS().get(httpserver.url_for("/feed"))
+        source, _ = RSS().get(httpserver.url_for("/feed"))  # act
 
         assert source.title == "The Blue Book"

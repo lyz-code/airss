@@ -9,6 +9,12 @@ version_files = [
     "src/airss/version.py",
 ]
 
+# --------- Autoimport -------------
+
+[tool.autoimport.common_statements]
+"factories" = "from tests import factories"
+"SourceFactory" = "from tests.factories import SourceFactory"
+
 # --------- PDM -------------
 
 [project]
@@ -25,6 +31,10 @@ dependencies = [
     "tenacity>=8.0.1",
     "feedparser>=6.0.8",
     "fastapi>=0.73.0",
+    # Required to upload files to fastapi,
+    "python-multipart>=0.0.5",
+    "beautifulsoup4>=4.10.0",
+    "lxml>=4.7.1",
 ]
 name = "airss"
 description = "Intelligent self-hosted content browser"
@@ -59,6 +69,13 @@ airss = "airss.entrypoints.cli:cli"
 version = {from = "src/airss/version.py"}
 package-dir = "src"
 source-includes = ["tests/"]
+editable-backend = "path"
+
+[tool.pdm.overrides]
+
+# to be removed once i'm sure that https://github.com/pdm-project/pdm/issues/905 is
+# fixed, which in theory would be once pdm > 1.12.8 is released.
+autoimport = "1.2.2"
 
 [tool.pdm.dev-dependencies]
 lint = [
@@ -95,6 +112,7 @@ test = [
     "pytest-xdist>=2.4.0",
     "pytest-freezegun>=0.4.2",
     "pydantic-factories>=0.5.0",
+    "pytest-httpserver>=1.0.4",
 ]
 doc = [
     "mkdocs>=1.2.3",
@@ -172,7 +190,13 @@ markers = [
     "slow: marks tests as slow (deselect with '-m \"not slow\"')",
     "secondary: mark tests that use functionality tested in the same file (deselect with '-m \"not secondary\"')"
 ]
-filterwarnings = ["error"]
+filterwarnings = [
+  "error",
+  # Until https://github.com/ktosiek/pytest-freezegun/issues/35 is merged
+  "ignore::DeprecationWarning:pytest_freezegun.*",
+  # Remove before merging
+  "ignore::ResourceWarning"
+]
 
 # --------- Coverage -------------
 
@@ -254,6 +278,16 @@ pycodestyle = [
 ]
 pyflakes = ["+*"]
 
+[tool.flakehell.exceptions."src/airss/entrypoints/api.py"]
+flake8-mutable = [
+  "-M511", # mutable default arg of type Call, but it's the way to define the
+           # dependencies in FastAPI
+]
+flake8-bugbear = [
+  "-B008", # mutable default arg of type Call, but it's the way to define the
+           # dependencies in FastAPI
+]
+
 [tool.flakehell.exceptions."tests/"]
 flake8-docstrings = [
   "-D400", # First line should end with a period
@@ -312,7 +346,9 @@ disallow_untyped_decorators = false
 
 [[tool.mypy.overrides]]
 module = [
-    "goodconf",
-    "pytest",
+    "pytest_httpserver",
+    "werkzeug.*",
+    "feedparser",
+    "freezegun.*",
 ]
 ignore_missing_imports = true

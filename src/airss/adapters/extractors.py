@@ -7,7 +7,8 @@ from datetime import datetime
 from typing import List, Tuple
 
 import feedparser
-from tenacity import retry, stop_after_attempt
+from tenacity import retry
+from tenacity.stop import stop_after_attempt
 
 from ..exceptions import FetchError
 from ..model import Article, Source
@@ -30,17 +31,17 @@ class RSS:
 
         data = feedparser.parse(url)
         if data.status != 200:
-            raise FetchError(f"Url {url} returned an {data.status} status code")
+            raise FetchError(
+                f"Url {url} returned an {data.status} status code",
+                status_code=data.status,
+            )
 
         source = Source(
             title=data.feed.title,
             description=data.feed.subtitle,
             created_at=now,
             updated_at=self._feed_time_to_datetime(data.feed.published_parsed),
-            next_update_at=None,
-            score=None,
             url=data.feed.link,
-            tags=[],
         )
 
         articles: List[Article] = []
@@ -49,7 +50,9 @@ class RSS:
                 title=entry.title,
                 created_at=now,
                 published_at=self._feed_time_to_datetime(entry.published_parsed),
-                updated_at=self._feed_time_to_datetime(entry.updated_parsed),
+                # using published_at instead of updated_at until the next issue is
+                # solved https://github.com/kurtmckee/feedparser/issues/151
+                updated_at=self._feed_time_to_datetime(entry.published_parsed),
                 url=entry.link,
                 author=entry.author,
                 summary=entry.summary,
@@ -72,5 +75,4 @@ class RSS:
         Returns:
             datetime: parsed date.
         """
-
         return datetime.fromtimestamp(time.mktime(feed_time))

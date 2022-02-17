@@ -1,10 +1,10 @@
 """Define the data models of the program."""
 
-from datetime import datetime
+from datetime import datetime, timedelta
 from enum import Enum
-from typing import List, Optional
+from typing import Any, Dict, List, Optional
 
-from pydantic import AnyHttpUrl, Field
+from pydantic import AnyHttpUrl, Field, root_validator
 from repository_orm import Entity
 
 
@@ -18,7 +18,6 @@ class ArticleState(str, Enum):
 
 
 class Article(Entity):
-
     """Define the model of an article."""
 
     title: str
@@ -43,22 +42,44 @@ class SourceState(str, Enum):
 
     DELETED = "deleted"
     AVAILABLE = "available"
+    ERROR = "error"
 
 
 class Source(Entity):
-    """Define the model of an article source.
-
-    Args:
-        update_frequency: hours between fetches
-    """
+    """Define the model of an article source."""
 
     url: AnyHttpUrl
-    title: str
+    title: Optional[str] = None
     state: SourceState = SourceState.AVAILABLE
     description: Optional[str] = None
-    created_at: datetime = Field(default_factory=datetime.now)
-    updated_at: datetime = Field(default_factory=datetime.now)
-    next_update_at: Optional[datetime] = None
-    update_frequency: int = 24
+    created_at: datetime
+    updated_at: Optional[datetime] = None
+    next_update_at: datetime
+    update_frequency: int
     score: Optional[int] = Field(None, gt=0, le=5)
     tags: List[str] = Field(default_factory=list)
+
+    @root_validator(pre=True)
+    @classmethod
+    def set_default_values(cls, values: Dict[str, Any]) -> Dict[str, Any]:
+        """Set the created_at and date for the next update."""
+        if "created_at" not in values:
+            values["created_at"] = datetime.now()
+        if "update_frequency" not in values:
+            values["update_frequency"] = 24
+        if "next_update_at" not in values:
+            values["next_update_at"] = values["created_at"] + timedelta(
+                hours=values["update_frequency"]
+            )
+        return values
+
+
+class FetchLog(Entity):
+    """Define the model of a fetch log entry."""
+
+    url: AnyHttpUrl
+    extractor: str
+    created_at: datetime
+    status_code: int = 200
+    message: Optional[str] = None
+    traceback: Optional[str] = None
